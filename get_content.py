@@ -30,24 +30,47 @@ def load_error_info(error_file):
         except json.JSONDecodeError:
             return {}, []
 
+def sanitize_filename(filename, log_file_path, web_dn=None):
+    illegal_chars = r'[\\/*?:"<>|]'
+    if re.search(illegal_chars, filename):
+        sanitized = re.sub(illegal_chars, '_', filename)
+        with open(log_file_path, 'a', encoding='utf-8') as log_file:
+            log_file.write(f"域名：{web_dn}\t原始文件名: {filename}\t实际文件名: {sanitized}\n")
+        return sanitized
+    else:
+        return filename
 
 
 
 with open('ref_evluation_all.json', 'r', encoding='utf-8') as file:
     ref_dict = json.load(file)
 
-#"blog.google":"rich-text","trendmicro.com":"richText","crowdstrike.com":"cmp-text","trendmicro.com":"richText","cisa.gov":"l-page-section__content","securelist.com":"js-reading-content","secureworks.com":"article-content"
-div_dict = {
-    # "trendmicro.com": "richText",
-    # "blog.google":"rich-text",
-    # "crowdstrike.com":"cmp-text",
-    # "cisa.gov":"l-page-section__content",
-    # "securelist.com":"js-reading-content",
-    # "secureworks.com":"article-content"
-    
-}
+# div_dict = {
+#     "trendmicro.com": "richText",
+#     "blog.google":"rich-text",
+#     "crowdstrike.com":"cmp-text",
+#     "cisa.gov":"l-page-section__content",
+#     "securelist.com":"js-reading-content",
+#     "secureworks.com":"article-content"
+# }
+div_dict = {}
+with open('domains.json', 'r', encoding='utf-8') as file:
+    domain_urls = json.load(file)
+    for domain in domain_urls.keys():
+        if domain_urls[domain]["div"] != "" and domain_urls[domain]["processed"] == False:
+            div_dict[domain] = domain_urls[domain]["div"]
+
+print(f"本次提取的域名数量：{len(div_dict)}")
+print(div_dict)
 
 wrong_urls = []
+
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+    "Accept-Language": "en-US,en;q=0.9"
+}
 
 
 for web_dn in div_dict.keys():
@@ -63,7 +86,7 @@ for web_dn in div_dict.keys():
     error_404_name2info, error_404_list = load_error_info(error_404)
     error_429_name2info, error_429_list = load_error_info(error_429)
 
-
+    filename_log = f"./documents/file_name_log.txt"
 
     for url in ref_dict.keys():
         if web_dn in url:
@@ -73,7 +96,6 @@ for web_dn in div_dict.keys():
             if url in wrong_urls:
                 continue
             filename = ref_dict[url]["name"] + ".txt"
-            
 
 
             # 如果已提取好，则跳过，注意需要关注现有文件内容是否正确！
@@ -102,7 +124,7 @@ for web_dn in div_dict.keys():
                 logging.info(f"提取到真实链接：{url}")
 
             try:
-                response = requests.get(url)
+                response = requests.get(url, headers=headers, timeout=30)
             except requests.exceptions.RequestException as e:
                 # print(f"请求错误: {e} 跳过链接：{url}")
                 logging.info(f"请求错误: {e} 跳过链接：{url}")
@@ -168,8 +190,11 @@ for web_dn in div_dict.keys():
 
             # 成功提取
             counts["success"] += 1
+            filename = sanitize_filename(filename, filename_log, web_dn)
+
             with open(f"{success_dir}/{filename}", "w", encoding="utf-8") as file:
                 file.write(text_content_all)
+            logging.info(f"成功提取：{url} 到 {filename}")
             # 删除错误记录
             if filename in error_404_list:
                 error_404_list.remove(filename)
