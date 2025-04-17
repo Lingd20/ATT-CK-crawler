@@ -1,0 +1,3027 @@
+{
+    "research.nccgroup.com": {
+        "urls": [
+            "https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/",
+            "https://research.nccgroup.com/2022/03/03/sharkbot-a-new-generation-android-banking-trojan-being-distributed-on-google-play-store/",
+            "https://research.nccgroup.com/2018/04/17/decoding-network-data-from-a-gh0st-rat-variant/",
+            "https://research.nccgroup.com/2018/03/10/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/",
+            "https://research.nccgroup.com/2022/06/06/shining-the-light-on-black-basta/",
+            "https://research.nccgroup.com/2022/04/28/lapsus-recent-techniques-tactics-and-procedures/",
+            "https://research.nccgroup.com/2018/11/08/rokrat-analysis/",
+            "https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time/",
+            "https://research.nccgroup.com/2021/06/15/handy-guide-to-a-new-fivehands-ransomware-variant/",
+            "https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/",
+            "https://research.nccgroup.com/2020/06/02/in-depth-analysis-of-the-new-team9-malware-family/"
+        ],
+        "div": "rte",
+        "processed": false
+    },
+    "secureworks.com": {
+        "urls": [
+            "https://www.secureworks.com/research/bronze-union",
+            "https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage",
+            "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader",
+            "https://www.secureworks.com/research/iron-twilight-supports-active-measures",
+            "https://www.secureworks.com/research/revil-sodinokibi-ransomware",
+            "https://www.secureworks.com/blog/revil-the-gandcrab-connection",
+            "https://www.secureworks.com/research/threat-profiles/iron-ritual",
+            "http://www.secureworks.com/research/threat-profiles/iron-hemlock",
+            "https://www.secureworks.com/blog/usaid-themed-phishing-campaign-leverages-us-elections-lure",
+            "https://www.secureworks.com/blog/chinese-cyberespionage-group-bronze-silhouette-targets-us-government-and-defense-organizations",
+            "https://www.secureworks.com/blog/lazy-passwords-become-rocket-fuel-for-emotet-smb-spreader",
+            "https://www.secureworks.com/research/updated-karagany-malware-targets-energy-sector",
+            "https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses",
+            "https://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation",
+            "https://www.secureworks.com/research/threat-profiles/gold-sahara",
+            "https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware",
+            "https://www.secureworks.com/research/bronze-president-targets-ngos",
+            "http://www.secureworks.com/resources/blog/living-off-the-land/",
+            "https://www.secureworks.com/research/threat-profiles/gold-prelude",
+            "http://www.secureworks.com/research/threat-profiles/iron-hunter",
+            "https://www.secureworks.com/blog/cybercriminals-increasingly-trying-to-ensnare-the-big-financial-fish",
+            "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign",
+            "https://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations",
+            "https://www.secureworks.com/research/the-curious-case-of-mia-ash",
+            "https://www.secureworks.com/research/threat-profiles/iron-tilden",
+            "http://www.secureworks.com/resources/blog/where-you-at-indicators-of-lateral-movement-using-at-exe-on-windows-7-systems/",
+            "https://www.secureworks.com/research/skeleton-key-malware-analysis",
+            "https://www.secureworks.com/blog/notpetya-campaign-what-we-know-about-the-latest-global-ransomware-attack",
+            "https://www.secureworks.com/research/threat-profiles/gold-cabin",
+            "https://www.secureworks.com/research/The-Lifecycle-of-Peer-to-Peer-Gameover-ZeuS",
+            "https://www.secureworks.com/research/mcmd-malware-analysis",
+            "http://www.secureworks.com/cyber-threat-intelligence/threats/wiper-malware-analysis-attacking-korean-financial-sector/",
+            "https://www.secureworks.com/research/darktortilla-malware-analysis",
+            "https://www.secureworks.com/blog/back-to-school-cobalt-dickens-targets-universities",
+            "https://www.secureworks.com/blog/cobalt-dickens-goes-back-to-school-again",
+            "http://www.secureworks.com/cyber-threat-intelligence/threats/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles/",
+            "https://www.secureworks.com/research/resurgent-iron-liberty-targeting-energy-sector",
+            "https://www.secureworks.com/research/a-peek-into-bronze-unions-toolbox",
+            "http://www.secureworks.com/cyber-threat-intelligence/threats/sakula-malware-family/",
+            "https://www.secureworks.com/research/wcry-ransomware-analysis",
+            "https://www.secureworks.com/research/threat-profiles/gold-southfield"
+        ],
+        "div": "article-content",
+        "processed": true
+    },
+    "trendmicro.com": {
+        "urls": [
+            "https://www.trendmicro.com/en_us/research/23/c/iron-tiger-sysupdate-adds-linux-targeting.html",
+            "https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html",
+            "https://www.trendmicro.com/en_us/research/17/b/ratankba-watering-holes-against-enterprises.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-campaign-targeting-cryptocurrencies-reveals-remote-controller-tool-evolved-ratankba/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/autoit-compiled-worm-affecting-removable-media-delivers-fileless-version-of-bladabindi-njrat-backdoor/",
+            "https://www.trendmicro.com/en_us/research/19/a/google-play-apps-drop-anubis-banking-malware-use-motion-based-evasion-tactics.html",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/kunming-attack-leads-to-gh0st-rat-variant/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/coronavirus-update-app-leads-to-project-spy-android-and-ios-spyware/",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/conficker",
+            "https://www.trendmicro.com/en_us/research/21/b/new-in-ransomware.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-banking-malware-uses-network-sniffing-for-data-theft/",
+            "https://www.trendmicro.com/en_us/research/23/c/emotet-returns-now-adopts-binary-padding-for-evasion.html",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/redbaldknight-bronze-butler-daserf-backdoor-now-using-steganography/",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/PE_URSNIF.A2?_ga=2.131425807.1462021705.1559742358-1202584019.1549394279",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/BKDR_URSNIF.SM?_ga=2.129468940.1462021705.1559742358-1202584019.1549394279",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/info-stealing-file-infector-hits-us-uk/",
+            "https://www.trendmicro.com/en_us/research/20/g/updates-on-quickly-evolving-thiefquest-macos-malware.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/pokemon-themed-umbreon-linux-rootkit-hits-x86-arm-systems/?_ga=2.180041126.367598458.1505420282-1759340220.1502477046",
+            "https://www.trendmicro.com/en_us/research/22/e/examining-the-black-basta-ransomwares-infection-routine.html",
+            "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackbasta",
+            "https://www.trendmicro.com/en_us/research/22/a/tianyspy-malware-uses-smishing-disguised-as-message-from-telco.html",
+            "https://www.trendmicro.com/en_za/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/hacking-team-rcsandroid-spying-tool-listens-to-calls-roots-devices-to-get-in/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/DARKCOMET",
+            "https://www.trendmicro.com/en_us/research/20/i/analysis-of-a-convoluted-attack-chain-involving-ngrok.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/attack-using-windows-installer-msiexec-exe-leads-lokibot/",
+            "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-play",
+            "https://www.trendmicro.com/en_us/research/22/c/cyclops-blink-sets-sights-on-asus-routers--.html",
+            "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-avoslocker",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/hacking-team-uses-uefi-bios-rootkit-to-keep-rcs-9-agent-in-target-systems/",
+            "https://www.trendmicro.com/en_se/research/22/e/new-linux-based-ransomware-cheerscrypt-targets-exsi-devices.html",
+            "https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/following-trail-blacktech-cyber-espionage-campaigns/",
+            "https://www.trendmicro.com/en_us/research/19/l/waterbear-is-back-uses-api-hooking-to-evade-security-product-detection.html",
+            "https://news.trendmicro.com/2021/08/17/flytrap-android-malware-is-taking-over-facebook-accounts-protect-yourself-with-a-malware-scanner/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/",
+            "https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/an-analysis-of-windows-zero-day-vulnerability-cve-2014-4114-aka-sandworm/",
+            "https://www.trendmicro.com/en_us/research/24/c/unveiling-earth-kapre-aka-redcurls-cyberespionage-tactics-with-t.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/shifting-tactics-breaking-down-ta505-groups-use-of-html-rats-and-other-techniques-in-latest-campaigns/",
+            "https://www.trendmicro.com/en_us/research/19/h/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/skidmap-linux-malware-uses-rootkit-capabilities-to-hide-cryptocurrency-mining-payload/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/netwalker-fileless-ransomware-injected-via-reflective-loading/",
+            "https://www.trendmicro.com/en_us/research/18/a/new-killdisk-variant-hits-financial-organizations-in-latin-america.html",
+            "https://www.trendmicro.com/en_us/research/18/f/new-killdisk-variant-hits-latin-american-financial-organizations-again.html",
+            "https://www.trendmicro.com/en_us/research/24/a/a-look-into-pikabot-spam-wave-campaign.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/xloader-android-spyware-and-banking-trojan-distributed-via-dns-spoofing/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-version-of-xloader-that-disguises-as-android-apps-and-an-ios-profile-holds-new-links-to-fakespy/",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/dresscode-potential-impact-enterprises/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/",
+            "https://www.trendmicro.com/en_us/research/22/l/raspberry-robin-malware-targets-telecom-governments.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/trickbot-shows-off-new-trick-password-grabber-module/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/trickbot-adds-remote-application-credential-grabbing-capabilities-to-its-repertoire/",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/tspy_trickload.n",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/bkdr_rarstone-new-rat-to-watch-out-for/",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/rarstone-found-in-targeted-attacks/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-dacls-rat-backdoor-show-lazarus-multi-platform-attack-capability/",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor/",
+            "https://www.trendmicro.com/en_us/research/19/j/fin6-compromised-e-commerce-platform-via-magecart-to-inject-credit-card-skimmers-into-thousands-of-online-shops.html",
+            "https://www.trendmicro.com/en_us/research/20/l/pawn-storm-lack-of-sophistication-as-a-strategy.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-abuses-open-authentication-advanced-social-engineering-attacks",
+            "https://www.trendmicro.com/en_us/research/23/b/royal-ransomware-expands-attacks-by-targeting-linux-esxi-servers.html",
+            "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/ANDROIDOS_ANSERVER.A",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/android-malware-uses-blog-posts-as-cc/",
+            "https://www.trendmicro.com/en_us/research/18/g/new-andariel-reconnaissance-tactics-hint-at-next-targets.html",
+            "https://www.trendmicro.com/vinfo/ph/security/news/cybercrime-and-digital-threats/qakbot-resurges-spreads-through-vbs-files",
+            "https://success.trendmicro.com/solution/000283381",
+            "https://www.trendmicro.com/en_us/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/new-macos-backdoor-linked-to-oceanlotus-found/",
+            "http://blog.trendmicro.com/trendlabs-security-intelligence/cybercriminals-improve-android-malware-stealth-routines-with-obad/",
+            "https://www.trendmicro.com/en_us/research/22/l/icedid-botnet-distributors-abuse-google-ppc-to-distribute-malware.html",
+            "https://www.trendmicro.com/en_us/research/18/b/deciphering-confucius-cyberespionage-operations.html",
+            "https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html",
+            "https://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-continues-heists-mounts-attacks-on-financial-organizations-in-latin-america/",
+            "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/new-multi-platform-xbash-packs-obfuscation-ransomware-coinminer-worm-and-botnet"
+        ],
+        "div": "richText",
+        "processed": true
+    },
+    "securelist.com": {
+        "urls": [
+            "https://securelist.com/luckymouse-hits-national-data-center/86083/",
+            "https://securelist.com/spying-android-rat-from-brazil-brata/92775/",
+            "https://securelist.com/octopus-infested-seas-of-central-asia/88200/",
+            "https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/",
+            "https://securelist.com/darkvishnya/89169/",
+            "https://securelist.com/toddycat/106799/",
+            "https://securelist.com/sodin-ransomware/91473/",
+            "https://securelist.com/winnti-more-than-just-a-game/37029/",
+            "https://securelist.com/the-penquin-turla-2/67962/",
+            "https://securelist.com/agent-btz-a-source-of-inspiration/58551/",
+            "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044",
+            "https://securelist.com/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/73673/",
+            "https://securelist.com/the-tetrade-brazilian-banking-malware/97779/",
+            "https://securelist.com/fanning-the-flames-viceleaker-operation/90877/",
+            "https://securelist.com/el-machete/66108/",
+            "https://securelist.com/the-banking-trojan-emotet-detailed-analysis/69560/",
+            "https://securelist.com/dridex-a-history-of-evolution/78531/",
+            "https://securelist.com/the-flame-questions-and-answers-51/34344/",
+            "https://securelist.com/flame-bunny-frog-munch-and-beetlejuice-2/32855/",
+            "https://securelist.com/use-of-dns-tunneling-for-cc-communications/78203/",
+            "https://securelist.com/toddycat-keep-calm-and-check-logs/110696/",
+            "https://securelist.com/darkhalo-after-solarwinds-the-tomiris-connection/104311/",
+            "https://securelist.com/the-epic-turla-operation/65545/",
+            "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/",
+            "https://securelist.com/bad-rabbit-ransomware/82851/",
+            "https://securelist.com/the-kimsuky-operation-a-north-korean-apt/57915/",
+            "https://securelist.com/android-trojan-found-in-targeted-attack-58/35552/",
+            "https://securelist.com/faq-the-projectsauron-apt/75533/",
+            "https://securelist.com/gaza-cybergang-group1-operation-sneakypastes/90068/",
+            "https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/",
+            "https://securelist.com/mobile-malware-evolution-2013/58335/",
+            "https://securelist.com/apt-trends-report-q1-2020/96826/",
+            "https://securelist.com/ferocious-kitten-6-years-of-covert-surveillance-in-iran/102806/",
+            "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/",
+            "https://securelist.com/the-silence/83009/",
+            "https://securelist.com/everyone-sees-not-what-they-want-to-see/74997/",
+            "https://securelist.com/dvmap-the-first-android-malware-with-code-injection/78648/",
+            "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/",
+            "https://securelist.com/the-dropping-elephant-actor/75328/",
+            "https://securelist.com/lazarus-threatneedle/100803/",
+            "https://securelist.com/mobile-banker-riltok/91374/",
+            "https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/",
+            "https://securelist.com/fileless-attacks-against-enterprise-networks/77403/",
+            "https://securelist.com/skygofree-following-in-the-footsteps-of-hackingteam/83603/",
+            "https://securelist.com/cloud-atlas-redoctober-apt-is-back-in-style/68083/",
+            "https://securelist.com/recent-cloud-atlas-activity/92016/",
+            "https://securelist.com/shadowpad-in-corporate-networks/81432/",
+            "https://securelist.com/be2-custom-plugins-router-abuse-and-target-profiles/67353/",
+            "https://securelist.com/be2-extraordinary-plugins-siemens-targeting-dev-fails/68838/",
+            "https://securelist.com/darkhotels-attacks-in-2015/71713/",
+            "https://securelist.com/the-rise-of-mobile-banker-asacub/87591/",
+            "https://securelist.com/unveiling-nkabuse/111512/",
+            "https://securelist.com/transparent-tribe-part-1/98127/",
+            "https://securelist.com/muddywater/88059/",
+            "https://securelist.com/apt-trends-report-q1-2021/101967",
+            "https://securelist.com/apt-trends-report-q2-2017/79332/",
+            "https://securelist.com/a-slice-of-2017-sofacy-activity/83930/",
+            "https://securelist.com/calisto-trojan-for-macos/86543/",
+            "https://securelist.com/my-name-is-dtrack/93338/",
+            "https://securelist.com/chafer-used-remexi-malware/89538/",
+            "https://securelist.com/andariel-evolves-to-target-south-korea-with-ransomware/102811/",
+            "https://securelist.com/qakbot-technical-analysis/103931/",
+            "https://securelist.com/operation-daybreak/75100/",
+            "https://securelist.com/apt-style-bank-robberies-increase-with-metel-gcman-and-carbanak-2-0-attacks/73638/",
+            "https://securelist.com/busygasper-the-unfriendly-spy/87627/",
+            "https://securelist.com/introducing-whitebear/81638/",
+            "https://securelist.com/apt-luminousmoth/103332/",
+            "https://securelist.com/project-tajmahal/90240/",
+            "https://securelist.com/synack-targeted-ransomware-uses-the-doppelganging-technique/85431/",
+            "https://securelist.com/the-rotexy-mobile-trojan-banker-and-ransomware/88893/"
+        ],
+        "div": "js-reading-content",
+        "processed": true
+    },
+    "thehackernews.com": {
+        "urls": [
+            "https://thehackernews.com/2018/06/chinese-watering-hole-attack.html",
+            "https://thehackernews.com/2022/08/north-korea-hackers-spotted-targeting.html",
+            "http://thehackernews.com/2014/01/first-widely-distributed-android.html",
+            "https://thehackernews.com/2021/07/indigozebra-apt-hacking-campaign.html",
+            "https://thehackernews.com/2016/05/android-kernal-exploit.html"
+        ],
+        "div": "ltr",
+        "processed": false
+    },
+    "arstechnica.com": {
+        "urls": [
+            "http://arstechnica.com/security/2015/08/newly-discovered-chinese-hacking-group-hacked-100-websites-to-use-as-watering-holes/",
+            "http://arstechnica.com/security/2017/01/virulent-android-malware-returns-gets-2-million-downloads-on-google-play/",
+            "http://arstechnica.com/security/2016/07/virulent-auto-rooting-malware-takes-control-of-10-million-android-devices/"
+        ],
+        "div": "post-content post-content-double",
+        "processed": false
+    },
+    "cleafy.com": {
+        "urls": [
+            "https://www.cleafy.com/cleafy-labs/how-brata-is-monitoring-your-bank-account",
+            "https://www.cleafy.com/cleafy-labs/sova-malware-is-back-and-is-evolving-rapidly"
+        ],
+        "div": "blog w-richtext",
+        "processed": false
+    },
+    "mcafee.com": {
+        "urls": [
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/brata-keeps-sneaking-into-google-play-now-targeting-usa-and-spain/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-what-the-code-tells-us/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-crescendo/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-what-the-code-tells-us",
+            "https://securingtomorrow.mcafee.com/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/?hilite=%27Operation%27%2C%27North%27%2C%27Star%27",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-behind-the-scenes/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/gold-dragon-widens-olympics-malware-attacks-gains-permanent-presence-on-victims-systems/",
+            "https://securingtomorrow.mcafee.com/mcafee-labs/netwire-rat-behind-recent-targeted-attacks/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs-detects-zero-day-exploit-targeting-microsoft-office-2",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clop-ransomware/",
+            "https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ransomware-maze/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/",
+            "https://securingtomorrow.mcafee.com/mcafee-labs/apt28-threat-group-adopts-dde-technique-nyc-attack-theme-in-latest-campaign/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/shamoon-returns-to-wipe-systems-in-middle-east-europe/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/shamoon-attackers-employ-new-tool-kit-to-wipe-infected-systems/",
+            "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-uncovers-operation-honeybee-malicious-document-campaign-targeting-humanitarian-aid-groups/"
+        ],
+        "div": "the_content",
+        "processed": false
+    },
+    "bleepingcomputer.com": {
+        "urls": [
+            "https://www.bleepingcomputer.com/news/security/android-malware-escobar-steals-your-google-authenticator-mfa-codes/",
+            "https://www.bleepingcomputer.com/news/security/revil-ransomware-has-a-new-windows-safe-mode-encryption-mode/",
+            "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-uses-wake-on-lan-to-encrypt-offline-devices/",
+            "https://www.bleepingcomputer.com/news/security/op-sharpshooter-connected-to-north-koreas-lazarus-group/",
+            "https://www.bleepingcomputer.com/news/security/hacking-group-s-new-malware-abuses-google-and-facebook-services/",
+            "https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/",
+            "https://www.bleepingcomputer.com/news/security/killdisk-disk-wiping-malware-adds-ransomware-component/",
+            "https://www.bleepingcomputer.com/news/security/inc-ransom-threatens-to-leak-3tb-of-nhs-scotland-stolen-data/",
+            "https://www.bleepingcomputer.com/news/security/trickbot-updates-its-vnc-module-for-high-value-targets/",
+            "https://www.bleepingcomputer.com/news/security/new-nkabuse-malware-abuses-nkn-blockchain-for-stealthy-comms/#google_vignette"
+        ],
+        "div": "articleBody",
+        "processed": false
+    },
+    "mandiant.com": {
+        "urls": [
+            "https://www.mandiant.com/resources/blog/suspected-iranian-actor-targeting-israeli-shipping",
+            "https://www.mandiant.com/resources/blog/unc3524-eye-spy-email",
+            "https://www.mandiant.com/resources/blog/dissecting-netwire-phishing-campaigns-usage-process-hollowing",
+            "https://www.mandiant.com/resources/operation-ke3chang-targeted-attacks-against-ministries-of-foreign-affairs",
+            "https://www.mandiant.com/resources/blog/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices",
+            "https://www.mandiant.com/resources/blog/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day",
+            "https://www.mandiant.com/resources/insights/apt-groups",
+            "https://www.mandiant.com/resources/blog/turla-galaxy-opportunity",
+            "https://www.mandiant.com/resources/blog/apt29-continues-targeting-microsoft",
+            "https://www.mandiant.com/resources/russian-targeting-gov-business",
+            "https://www.mandiant.com/resources/tracking-apt29-phishing-campaigns",
+            "https://www.mandiant.com/resources/apt41-us-state-governments",
+            "https://www.mandiant.com/resources/blog/suspected-apt-targets-ivanti-zero-day",
+            "https://www.mandiant.com/resources/blog/industroyer-v2-old-malware-new-tricks",
+            "https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation",
+            "https://www.mandiant.com/resources/blog/investigating-ivanti-exploitation-persistence",
+            "https://www.mandiant.com/resources/blog/sandworm-disrupts-power-ukraine-operational-technology",
+            "https://www.mandiant.com/resources/incontroller-state-sponsored-ics-tool",
+            "https://www.mandiant.com/resources/synful-knock-acis",
+            "https://www.mandiant.com/resources/telegram-malware-iranian-espionage",
+            "https://www.mandiant.com/resources/blog/fin13-cybercriminal-mexico",
+            "https://www.mandiant.com/resources/evolution-of-fin7"
+        ],
+        "div": " ",
+        "processed": false
+    },
+    "blog.talosintelligence.com": {
+        "urls": [
+            "https://blog.talosintelligence.com/2018/04/gravityrat-two-year-evolution-of-apt.html",
+            "https://blog.talosintelligence.com/2018/05/navrat.html",
+            "https://blog.talosintelligence.com/2018/01/samsam-evolution-continues-netting-over.html",
+            "https://blog.talosintelligence.com/operation-layover-how-we-tracked-attack/",
+            "https://blog.talosintelligence.com/2019/06/frankenstein-campaign.html",
+            "https://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html",
+            "https://blog.talosintelligence.com/2021/02/obliquerat-new-campaign.html",
+            "https://blog.talosintelligence.com/2021/05/transparent-tribe-infra-and-targeting.html",
+            "https://blog.talosintelligence.com/2020/05/the-wolf-is-back.html",
+            "https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html",
+            "https://blog.talosintelligence.com/2019/04/gustuff-targets-australia.html",
+            "https://blog.talosintelligence.com/2019/01/return-of-emotet.html",
+            "https://blog.talosintelligence.com/manjusaka-offensive-framework/",
+            "https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html",
+            "https://blog.talosintelligence.com/2021/09/tinyturla.html",
+            "https://blog.talosintelligence.com/2021/01/a-deep-dive-into-lokibot-infection-chain.html",
+            "https://blog.talosintelligence.com/2017/06/palestine-delphi.html",
+            "https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html",
+            "https://blog.talosintelligence.com/avoslocker-new-arsenal/",
+            "https://blog.talosintelligence.com/2020/03/bisonal-10-years-of-play.html",
+            "https://blog.talosintelligence.com/2017/11/zeus-panda-campaign.html#More",
+            "https://blog.talosintelligence.com/2017/04/introducing-rokrat.html",
+            "https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html",
+            "https://blog.talosintelligence.com/2017/11/ROKRAT-Reloaded.html",
+            "https://blog.talosintelligence.com/teamtnt-targeting-aws-alibaba-2/",
+            "https://blog.talosintelligence.com/2022/04/teamtnt-targeting-aws-alibaba.html",
+            "https://blog.talosintelligence.com/2018/07/multiple-cobalt-personality-disorder.html",
+            "https://blog.talosintelligence.com/2022/01/ukraine-campaign-delivers-defacement.html",
+            "https://blog.talosintelligence.com/2017/05/konni-malware-under-radar-for-years.html",
+            "https://blog.talosintelligence.com/2022/07/transparent-tribe-targets-education.html",
+            "https://blog.talosintelligence.com/2020/10/poetrat-update.html",
+            "https://blog.talosintelligence.com/2020/04/poetrat-covid-19-lures.html",
+            "https://blog.talosintelligence.com/2018/10/old-dog-new-tricks-analysing-new-rtf_15.html",
+            "https://blog.talosintelligence.com/2018/07/smoking-guns-smoke-loader-learned-new.html#more",
+            "http://blog.talosintelligence.com/2017/03/dnsmessenger.html",
+            "https://blog.talosintelligence.com/2018/06/vpnfilter-update.html",
+            "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html",
+            "https://blog.talosintelligence.com/2022/01/iranian-apt-muddywater-targets-turkey.html",
+            "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html",
+            "https://blog.talosintelligence.com/2017/10/cyber-conflict-decoy-document.html",
+            "https://blog.talosintelligence.com/2018/08/picking-apart-remcos.html",
+            "https://blog.talosintelligence.com/2017/06/worldwide-ransomware-variant.html",
+            "https://blog.talosintelligence.com/2018/02/olympic-destroyer.html",
+            "https://blog.talosintelligence.com/2018/10/gplayedtrojan.html",
+            "https://blog.talosintelligence.com/2022/03/threat-advisory-caddywiper.html",
+            "http://blog.talosintelligence.com/2017/09/avast-distributes-malware.html"
+        ],
+        "div": "post-content",
+        "processed": false
+    },
+    "symantec.com": {
+        "urls": [
+            "https://www.symantec.com/blogs/threat-intelligence/gallmaker-attack-group",
+            "https://www.symantec.com/connect/blogs/cross-platform-frutas-rat-builder-and-back-door",
+            "https://www.symantec.com/blogs/threat-intelligence/jrat-new-anti-parsing-techniques",
+            "http://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory",
+            "https://www-west.symantec.com/content/symantec/english/en/security-center/writeup.html/2018-040209-1742-99",
+            "https://www.symantec.com/blogs/threat-intelligence/elfin-apt33-espionage",
+            "https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2015-120123-5521-99",
+            "https://support.symantec.com/us/en/article.tech93179.html",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-050412-4128-99",
+            "https://www.symantec.com/blogs/threat-intelligence/evolution-emotet-trojan-distributor",
+            "https://www.symantec.com/connect/blogs/tick-cyberespionage-group-zeros-japan",
+            "https://www.symantec.com/connect/blogs/flamer-recipe-bluetoothache",
+            "https://www.symantec.com/security-center/writeup/2017-030708-4403-99",
+            "https://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051605-2535-99",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051606-1005-99",
+            "http://www.symantec.com/connect/blogs/buckeye-cyberespionage-group-shifts-gaze-us-hong-kong",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2005-081910-3934-99",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-061518-4639-99",
+            "http://www.symantec.com/connect/blogs/patchwork-cyberespionage-group-expands-targets-governments-wide-range-industries",
+            "https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051515-3909-99",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2010-011114-1830-99",
+            "https://www.symantec.com/connect/blogs/trojanhydraq-incident",
+            "https://www.symantec.com/connect/blogs/how-trojanhydraq-stays-your-computer",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051515-2843-99",
+            "http://www.symantec.com/connect/blogs/trojanzeroaccessc-hidden-ntfs-ea",
+            "https://www.symantec.com/blogs/threat-intelligence/seedworm-espionage-group",
+            "https://www.symantec.com/blogs/election-security/apt28-espionage-military-government",
+            "https://www.symantec.com/blogs/threat-intelligence/orangeworm-targets-healthcare-us-europe-asia",
+            "https://www.symantec.com/security-center/writeup/2016-081923-2700-99",
+            "http://www.symantec.com/connect/blogs/bios-threat-showing-again",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051515-3445-99",
+            "https://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets",
+            "https://www.symantec.com/connect/blogs/shamoon-attacks",
+            "http://www.symantec.com/connect/blogs/indian-organizations-targeted-suckfly-attacks",
+            "http://www.symantec.com/connect/blogs/suckfly-revealing-secret-life-your-code-signing-certificates",
+            "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051606-5938-99",
+            "https://www.symantec.com/blogs/threat-intelligence/leafminer-espionage-middle-east",
+            "http://www.symantec.com/security_response/writeup.jsp?docid=2015-020623-0740-99&tabid=2"
+        ],
+        "div": "blog-post__content",
+        "processed": false
+    },
+    "microsoft.com": {
+        "urls": [
+            "https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/",
+            "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+            "https://www.microsoft.com/en-us/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/",
+            "https://technet.microsoft.com/library/cc732443.aspx",
+            "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW",
+            "https://www.microsoft.com/en-us/security/blog/2022/09/08/microsoft-investigates-iranian-attacks-against-the-albanian-government/",
+            "https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/",
+            "https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/",
+            "https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/",
+            "https://www.microsoft.com/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/",
+            "https://www.microsoft.com/security/blog/2021/01/20/deep-dive-into-the-solorigate-second-stage-activation-from-sunburst-to-teardrop-and-raindrop/",
+            "https://msrc-blog.microsoft.com/2021/06/25/new-nobelium-activity/",
+            "https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/",
+            "https://www.microsoft.com/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/",
+            "https://msrc-blog.microsoft.com/2021/02/18/microsoft-internal-solorigate-investigation-final-update/",
+            "https://www.microsoft.com/security/blog/2020/12/28/using-microsoft-365-defender-to-coordinate-protection-against-solorigate/",
+            "https://www.microsoft.com/security/blog/2022/08/24/magicweb-nobeliums-post-compromise-trick-to-authenticate-as-anyone/",
+            "https://www.microsoft.com/security/blog/2021/09/27/foggyweb-targeted-nobelium-malware-leads-to-persistent-backdoor/",
+            "https://support.microsoft.com/en-us/kb/310105",
+            "https://www.microsoft.com/en-us/security/blog/2023/05/24/volt-typhoon-targets-us-critical-infrastructure-with-living-off-the-land-techniques/",
+            "https://www.microsoft.com/security/blog/2018/12/03/analysis-of-cyberattack-on-u-s-think-tanks-non-profits-public-sector-by-unidentified-attackers/",
+            "https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",
+            "https://technet.microsoft.com/en-us/library/cc732643.aspx",
+            "https://www.microsoft.com/security/blog/2020/06/18/inside-microsoft-threat-protection-mapping-attack-chains-from-cloud-to-endpoint/",
+            "https://www.microsoft.com/security/blog/2021/12/06/nickel-targeting-government-organizations-across-latin-america-and-europe",
+            "https://blogs.microsoft.com/on-the-issues/2020/09/10/cyberattacks-us-elections-trump-biden/",
+            "https://technet.microsoft.com/en-us/library/bb490947.aspx",
+            "https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/",
+            "https://technet.microsoft.com/en-us/library/cc732952.aspx",
+            "https://www.microsoft.com/security/blog/2022/06/02/exposing-polonium-activity-and-infrastructure-targeting-israeli-organizations/",
+            "https://www.microsoft.com/security/blog/2022/02/04/actinium-targets-ukrainian-organizations/",
+            "https://www.microsoft.com/en-us/security/blog/2022/10/14/new-prestige-ransomware-impacts-organizations-in-ukraine-and-poland/",
+            "https://technet.microsoft.com/en-us/library/bb491007.aspx",
+            "https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete",
+            "https://technet.microsoft.com/en-us/library/cc759136(v=ws.10).aspx",
+            "https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/",
+            "https://technet.microsoft.com/en-us/library/bb490864.aspx",
+            "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021",
+            "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+            "https://technet.microsoft.com/en-us/library/bb491010.aspx",
+            "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil",
+            "https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/",
+            "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Backdoor:Win32/Truvasys.A!dha",
+            "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/expand",
+            "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Backdoor%3aWin32%2fPoisonivy.E",
+            "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Backdoor:Win32/Wingbird.A!dha",
+            "https://technet.microsoft.com/en-us/library/bb490968.aspx",
+            "https://cloudblogs.microsoft.com/microsoftsecure/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/",
+            "https://www.microsoft.com/security/blog/2018/03/01/finfisher-exposed-a-researchers-tale-of-defeating-traps-tricks-and-complex-virtual-machines/",
+            "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=HackTool:Win32/Gsecdump",
+            "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1732",
+            "http://www.microsoft.com/security/portal/threat/encyclopedia/entry.aspx?Name=Win32%2FKasidet",
+            "https://blogs.technet.microsoft.com/mmpc/2017/01/25/detecting-threat-actors-in-recent-german-industrial-attacks-with-windows-defender-atp/",
+            "https://technet.microsoft.com/library/bb490939.aspx",
+            "https://technet.microsoft.com/en-us/library/cc771046(v=ws.10).aspx",
+            "https://technet.microsoft.com/en-us/library/bb490996.aspx",
+            "https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/",
+            "https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/",
+            "https://www.microsoft.com/security/blog/2022/01/15/destructive-malware-targeting-ukrainian-organizations/",
+            "https://technet.microsoft.com/en-us/sysinternals/bb897553.aspx",
+            "https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/Totbrick",
+            "https://cloudblogs.microsoft.com/microsoftsecure/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/",
+            "https://www.microsoft.com/security/blog/2016/07/14/reverse-engineering-dubnium-stage-2-payload-analysis/",
+            "https://www.microsoft.com/security/blog/2016/06/09/reverse-engineering-dubnium-2/",
+            "https://technet.microsoft.com/en-us/library/bb490866.aspx",
+            "https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/",
+            "https://support.microsoft.com/en-us/help/556003",
+            "https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc725622(v=ws.11)",
+            "https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc754051(v=ws.11)",
+            "https://technet.microsoft.com/bb490717.aspx",
+            "https://technet.microsoft.com/bb490716.aspx",
+            "https://www.microsoft.com/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/",
+            "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010",
+            "https://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/",
+            "https://msdn.microsoft.com/library/aa362813.aspx",
+            "https://docs.microsoft.com/en-us/windows/win32/bits/about-bits",
+            "https://technet.microsoft.com/en-us/library/bb490880.aspx",
+            "https://technet.microsoft.com/en-us/library/cc755121.aspx",
+            "https://technet.microsoft.com/en-us/library/cc771049.aspx",
+            "https://technet.microsoft.com/en-us/library/bb490886.aspx",
+            "https://www.microsoft.com/en-us/security/blog/2023/12/07/star-blizzard-increases-sophistication-and-evasion-in-ongoing-attacks/",
+            "https://www.microsoft.com/en-us/security/blog/2022/08/15/disrupting-seaborgiums-ongoing-phishing-operations/",
+            "https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/",
+            "https://cloudblogs.microsoft.com/microsoftsecure/2017/06/07/platinum-continues-to-evolve-find-ways-to-maintain-invisibility/?source=mmpc",
+            "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ftp",
+            "https://www.microsoft.com/security/blog/2020/10/08/sophisticated-new-android-malware-marks-the-latest-evolution-of-mobile-ransomware/"
+        ],
+        "div": "single__content mb-4 pt-4 pt-xl-5 pb-5",
+        "processed": false
+    },
+    "news.sophos.com": {
+        "urls": [
+            "https://news.sophos.com/en-us/2022/07/14/blackcat-ransomware-attacks-not-merely-a-byproduct-of-bad-luck/",
+            "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/",
+            "https://news.sophos.com/en-us/2020/05/27/netwalker-ransomware-tools-give-insight-into-threat-actor/",
+            "https://news.sophos.com/en-us/2020/09/17/maze-attackers-adopt-ragnar-locker-virtual-machine-technique/",
+            "https://news.sophos.com/en-us/2021/03/01/gootloader-expands-its-payload-delivery-options/",
+            "https://news.sophos.com/en-us/2018/07/23/red-alert-2-0-android-trojan-targets-security-seekers/",
+            "https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.sygnia.co": {
+        "urls": [
+            "https://blog.sygnia.co/revealing-emperor-dragonfly-a-chinese-ransomware-group"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "sentinelone.com": {
+        "urls": [
+            "https://www.sentinelone.com/labs/fade-dead-adventures-in-reversing-malicious-run-only-applescripts/",
+            "https://labs.sentinelone.com/noblebaron-new-poisoned-installers-could-be-used-in-supply-chain-attacks/",
+            "https://assets.sentinelone.com/sentinellabs/evol-agrius",
+            "https://www.sentinelone.com/anthology/inc-ransom/",
+            "https://www.sentinelone.com/blog/coming-out-of-your-shell-from-shlayer-to-zshlayer/",
+            "https://labs.sentinelone.com/20-common-tools-techniques-used-by-macos-threat-actors-malware/",
+            "https://www.sentinelone.com/labs/resourceful-macos-malware-hides-in-named-fork/",
+            "https://www.sentinelone.com/labs/socgholish-diversifies-and-expands-its-malware-staging-infrastructure-to-counter-defenders/",
+            "https://www.sentinelone.com/labs/infect-if-needed-a-deeper-dive-into-targeted-backdoor-macos-macma/",
+            "https://www.sentinelone.com/blog/macos-cuckoo-stealer-ensuring-detection-and-defense-as-new-samples-rapidly-emerge/",
+            "https://assets.sentinelone.com/sentinellabs22/metador#page=1",
+            "https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-target-apples-macos-platform/",
+            "https://www.sentinelone.com/labs/aoqin-dragon-newly-discovered-chinese-linked-apt-has-been-quietly-spying-on-organizations-for-10-years/",
+            "https://assets.sentinelone.com/labs/sentinel-one-valak-i",
+            "https://labs.sentinelone.com/fin6-frameworkpos-point-of-sale-malware-analysis-internals-2/",
+            "https://www.sentinelone.com/labs/wastedlocker-ransomware-abusing-ads-and-ntfs-file-attributes/",
+            "https://labs.sentinelone.com/agent-tesla-old-rat-uses-new-tricks-to-stay-on-top/",
+            "https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack",
+            "https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/",
+            "https://www.sentinelone.com/labs/winter-vivern-uncovering-a-wave-of-global-espionage/",
+            "https://www.sentinelone.com/labs/gootloader-initial-access-as-a-service-platform-expands-its-search-for-high-value-targets/",
+            "https://www.sentinelone.com/labs/apt32-multi-stage-macos-trojan-innovates-on-crimeware-scripting-technique/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "github.com": {
+        "urls": [
+            "https://github.com/inguardians/peirates",
+            "https://github.com/dafthack/MailSniper",
+            "https://github.com/TheWover/donut",
+            "https://github.com/danielbohannon/Invoke-Obfuscation",
+            "https://github.com/PowerShellEmpire/Empire",
+            "https://github.com/AlessandroZ/LaZagne",
+            "https://github.com/n1nj4sec/pupy",
+            "https://github.com/rapid7/meterpreter/tree/master/source/extensions/priv/server/elevate",
+            "https://github.com/hfiref0x/TDL",
+            "https://github.com/quasar/QuasarRAT",
+            "https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-06-25-IOCs-from-Latrodectus-activity.txt",
+            "https://github.com/offsecginger/koadic",
+            "https://github.com/PowerShellMafia/PowerSploit",
+            "https://github.com/BloodHoundAD/BloodHound",
+            "https://github.com/gentilkiwi/mimikatz",
+            "https://github.com/gentilkiwi/mimikatz/wiki/module-~-lsadump",
+            "https://github.com/gentilkiwi/mimikatz/wiki/howto-~-credential-manager-saved-credentials",
+            "https://github.com/gentilkiwi/mimikatz/wiki/module-~-kerberos",
+            "https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/blob/master/README.md",
+            "https://github.com/sensepost/ruler",
+            "https://github.com/peewpw/Invoke-PSImage",
+            "https://github.com/nettitude/PoshC2_Python",
+            "https://github.com/ARMmbed/mbed-crypto",
+            "https://github.com/MDudek-ICS/TRISIS-TRITON-HATMAN/tree/master/decompiled_code/library",
+            "https://github.com/Twi1ight/AD-Pentest-Script/blob/master/wmiexec.vbs",
+            "https://github.com/BishopFox/sliver/",
+            "https://github.com/BishopFox/sliver/wiki/DNS-C2",
+            "https://github.com/BishopFox/sliver/wiki/HTTP(S)-C2",
+            "https://github.com/BishopFox/sliver/wiki/Transport-Encryption",
+            "https://github.com/BishopFox/sliver/blob/7489c69962b52b09ed377d73d142266564845297/client/command/filesystem/download.go",
+            "https://github.com/BishopFox/sliver/tree/master/client/command/filesystem",
+            "https://github.com/BishopFox/sliver/blob/ea329226636ab8e470086a17f13aa8d330baad22/client/command/filesystem/upload.go",
+            "https://github.com/BishopFox/sliver/blob/master/implant/sliver/screen/screenshot_windows.go",
+            "https://github.com/BishopFox/sliver/blob/ea329226636ab8e470086a17f13aa8d330baad22/client/command/network/ifconfig.go",
+            "https://github.com/BishopFox/sliver/tree/58a56a077f0813bb312f9fa4df7453b510c3a73b/implant/sliver/netstat",
+            "https://github.com/SpiderLabs/Responder",
+            "https://github.com/fatedier/frp",
+            "https://github.com/hfiref0x/UACME",
+            "https://github.com/byt3bl33d3r/CrackMapExec/wiki/SMB-Command-Reference",
+            "https://github.com/byt3bl33d3r/SILENTTRINITY/tree/master/silenttrinity/core/teamserver/modules/boo",
+            "https://github.com/byt3bl33d3r/SILENTTRINITY",
+            "https://github.com/GhostPack/Rubeus",
+            "https://github.com/cobbr/Covenant",
+            "https://github.com/RhinoSecurityLabs/pacu",
+            "https://github.com/Kevin-Robertson/Inveigh",
+            "https://github.com/huntergregal/mimipenguin"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "zscaler.com": {
+        "urls": [
+            "https://www.zscaler.com/blogs/security-research/squirrelwaffle-new-loader-delivering-cobalt-strike",
+            "https://www.zscaler.com/blogs/research/cobian-rat-backdoored-rat",
+            "https://www.zscaler.com/blogs/security-research/apt-31-leverages-covid-19-vaccine-theme-and-abuses-legitimate-online",
+            "https://www.zscaler.com/blogs/security-research/technical-analysis-pikabot",
+            "https://www.zscaler.com/blogs/security-research/return-higaisa-apt",
+            "https://www.zscaler.com/blogs/research/spynote-rat-posing-netflix-app",
+            "http://research.zscaler.com/2015/08/chinese-cyber-espionage-apt-group.html",
+            "http://research.zscaler.com/2016/01/malicious-office-files-dropping-kasidet.html",
+            "https://www.zscaler.com/blogs/security-research/tiktok-spyware",
+            "https://www.zscaler.com/blogs/research/spear-phishing-campaign-delivers-buer-and-bazar-malware",
+            "https://www.zscaler.com/blogs/security-research/lyceum-net-dns-backdoor",
+            "https://www.zscaler.com/blogs/security-research/super-mario-run-malware-2-droidjack-rat"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "netskope.com": {
+        "urls": [
+            "https://www.netskope.com/blog/squirrelwaffle-new-malware-loader-delivering-cobalt-strike-and-qakbot"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "lolbas-project.github.io": {
+        "urls": [
+            "https://lolbas-project.github.io/lolbas/Binaries/Certutil/",
+            "https://lolbas-project.github.io/lolbas/Binaries/Esentutl/",
+            "https://lolbas-project.github.io/lolbas/Binaries/Expand/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "fireeye.com": {
+        "urls": [
+            "https://www.fireeye.com/blog/threat-research/2015/12/fin1-targets-boot-record.html",
+            "https://www.fireeye.com/blog/threat-research/2021/03/sunshuttle-second-stage-backdoor-targeting-us-based-entity.html",
+            "https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html",
+            "https://www.fireeye.com/blog/threat-research/2017/03/apt29_domain_frontin.html",
+            "https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html",
+            "https://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html",
+            "https://www.fireeye.com/blog/threat-research/2020/02/ransomware-against-machine-learning-to-disrupt-industrial-production.html",
+            "https://www.fireeye.com/blog/threat-research/2021/04/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat.html",
+            "https://www.fireeye.com/blog/threat-research/2017/03/dissecting_one_ofap.html",
+            "https://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html",
+            "https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html",
+            "https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html",
+            "https://www.fireeye.com/blog/threat-research/2017/12/attackers-deploy-new-ics-attack-framework-triton.html",
+            "https://www.fireeye.com/blog/threat-research/2018/06/totally-tubular-treatise-on-TRITON-and-tristation.html",
+            "https://www.fireeye.com/blog/threat-research/2021/06/darkside-affiliate-supply-chain-software-compromise.html",
+            "https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html",
+            "https://www.fireeye.com/blog/threat-research/2018/11/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.html",
+            "https://www.fireeye.com/blog/threat-research/2016/04/rumms-android-malware.html",
+            "https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html",
+            "https://www.fireeye.com/blog/threat-research/2020/12/sunburst-additional-technical-details.html",
+            "https://www.fireeye.com/blog/threat-research/2017/11/ursnif-variant-malicious-tls-callback-technique.html",
+            "https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html",
+            "https://www.fireeye.com/blog/threat-research/2018/12/overruled-containing-a-potentially-destructive-adversary.html",
+            "https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html",
+            "https://www.fireeye.com/blog/threat-research/2019/01/a-nasty-trick-from-credential-theft-malware-to-business-disruption.html",
+            "https://www.fireeye.com/blog/threat-research/2013/08/survival-of-the-fittest-new-york-times-attackers-evolve-quickly.html",
+            "https://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html",
+            "https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html",
+            "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+            "https://www.fireeye.com/blog/threat-research/2014/09/the-path-to-mass-producing-cyber-attacks.html",
+            "https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html",
+            "https://www.fireeye.com/blog/threat-research/2014/06/clandestine-fox-part-deux.html",
+            "https://www.fireeye.com/blog/threat-research/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html",
+            "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+            "https://www.fireeye.com/blog/threat-research/2017/02/spear_phishing_techn.html",
+            "https://www.fireeye.com/blog/threat-research/2016/09/hancitor_aka_chanit.html",
+            "https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html",
+            "https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html",
+            "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
+            "https://www.fireeye.com/blog/threat-research/2013/08/breaking-down-the-china-chopper-web-shell-part-i.html",
+            "https://www.fireeye.com/blog/threat-research/2017/06/behind-the-carbanak-backdoor.html",
+            "https://www2.fireeye.com/WBNR-Are-you-ready-to-respond.html",
+            "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html",
+            "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html",
+            "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
+            "https://www.fireeye.com/blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html",
+            "https://www.fireeye.com/blog/threat-research/2019/06/government-in-central-asia-targeted-with-hawkball-backdoor.html",
+            "https://www.fireeye.com/blog/threat-research/2014/05/the-pla-and-the-800am-500pm-work-day-fireeye-confirms-dojs-findings-on-apt1-intrusion-activity.html",
+            "https://www.fireeye.com/blog/threat-research/2012/08/hikit-rootkit-advanced-persistent-attack-techniques-part-2.html",
+            "https://www.fireeye.com/blog/threat-research/2012/08/hikit-rootkit-advanced-persistent-attack-techniques-part-1.html",
+            "https://www2.fireeye.com/WBNR-14Q4NAMFIN4.html",
+            "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html",
+            "https://www.fireeye.com/blog/threat-research/2018/04/metamorfo-campaign-targeting-brazilian-users.html",
+            "https://www.fireeye.com/blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html",
+            "https://www.fireeye.com/blog/threat-research/2017/04/fin7-phishing-lnk.html",
+            "https://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html",
+            "https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html",
+            "https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html",
+            "https://www.fireeye.com/blog/threat-research/2018/07/microsoft-office-vulnerabilities-used-to-distribute-felixroot-backdoor.html",
+            "https://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html",
+            "https://www.fireeye.com/blog/threat-research/2019/12/breaking-the-rules-tough-outlook-for-home-page-attacks.html",
+            "https://www.fireeye.com/blog/threat-research/2016/05/targeted_attacksaga.html",
+            "https://www.fireeye.com/blog/threat-research/2018/08/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation.html",
+            "https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html",
+            "https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html",
+            "https://www.fireeye.com/blog/threat-research/2014/11/operation_doubletap.html",
+            "https://www.fireeye.com/blog/threat-research/2014/04/new-zero-day-exploit-targeting-internet-explorer-versions-9-through-11-identified-in-targeted-attacks.html",
+            "https://www.fireeye.com/blog/threat-research/2016/11/fireeye_respondsto.html",
+            "https://www.fireeye.com/blog/threat-research/2017/05/wannacry-malware-profile.html",
+            "https://www.fireeye.com/blog/threat-research/2019/01/apt39-iranian-cyber-espionage-group-focused-on-personal-information.html",
+            "https://www.fireeye.com/blog/threat-research/2020/10/kegtap-and-singlemalt-with-a-ransomware-chaser.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "anomali.com": {
+        "urls": [
+            "https://www.anomali.com/blog/pulling-linux-rabbit-rabbot-malware-out-of-a-hat",
+            "https://www.anomali.com/blog/anomali-suspects-that-china-backed-apt-pirate-panda-may-be-seeking-access-to-vietnam-government-data-center#When:15:00:00Z",
+            "https://www.anomali.com/blog/china-based-apt-mustang-panda-targets-minority-groups-public-and-private-sector-organizations",
+            "https://www.anomali.com/blog/evasive-maneuvers-the-wekby-group-attempts-to-evade-analysis-via-custom-rop",
+            "https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies",
+            "https://www.anomali.com/blog/rocke-evolves-its-arsenal-with-a-new-malware-family-written-in-golang"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "securityaffairs.co": {
+        "urls": [
+            "https://securityaffairs.co/wordpress/77165/apt/russia-linked-apt-dustsquad.html",
+            "http://securityaffairs.co/wordpress/8528/hacking/elderwood-project-who-is-behind-op-aurora-and-ongoing-attacks.html",
+            "https://securityaffairs.co/wordpress/88021/apt/croatia-government-silenttrinity-malware.html",
+            "http://securityaffairs.co/wordpress/65318/hacking/dde-attack-apt28.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blogs.cisco.com": {
+        "urls": [
+            "http://blogs.cisco.com/security/talos/threat-spotlight-group-72",
+            "http://blogs.cisco.com/security/h1n1-technical-analysis-reveals-new-capabilities-part-2",
+            "http://blogs.cisco.com/security/h1n1-technical-analysis-reveals-new-capabilities",
+            "https://blogs.cisco.com/security/evolution-of-attacks-on-cisco-ios-devices",
+            "https://blogs.cisco.com/security/talos/opening-zxshell"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "citizenlab.ca": {
+        "urls": [
+            "https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/",
+            "https://citizenlab.ca/2016/08/group5-syria/",
+            "https://citizenlab.ca/2016/11/parliament-keyboy/",
+            "https://citizenlab.ca/2018/08/familiar-feeling-a-malware-campaign-targeting-the-tibetan-diaspora-resurfaces/",
+            "https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cybereason.com": {
+        "urls": [
+            "https://www.cybereason.com/blog/research/powerless-trojan-iranian-apt-phosphorus-adds-new-powershell-backdoor-for-espionage",
+            "https://www.cybereason.com/blog/the-sodinokibi-ransomware-attack",
+            "https://www.cybereason.com/blog/operation-cobalt-kitty-apt",
+            "https://www.cybereason.com/blog/eventbot-a-new-mobile-banking-trojan-is-born",
+            "https://www.cybereason.com/blog/back-to-the-future-inside-the-kimsuky-kgh-spyware-suite",
+            "https://www.cybereason.com/blog/information-stealing-malware-targeting-brazil-full-research",
+            "https://www.cybereason.com/blog/cybereason-vs-egregor-ransomware",
+            "https://www.cybereason.com/blog/threat-actor-ta505-targets-financial-enterprises-using-lolbins-and-a-new-backdoor-malware",
+            "https://www.cybereason.com/blog/cybereason-vs.-conti-ransomware",
+            "https://www.cybereason.com/blog/threat-analysis-report-bumblebee-loader-the-high-road-to-enterprise-domain-control",
+            "https://www.cybereason.com/blog/valak-more-than-meets-the-eye",
+            "https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers",
+            "https://www.cybereason.com/blog/fakespy-masquerades-as-postal-service-apps-around-the-world",
+            "https://www.cybereason.com/blog/cybereason-vs.-clop-ransomware",
+            "https://www.cybereason.com/blog/cybereason-vs.-whispergate-wiper",
+            "https://www.cybereason.com/blog/dropping-anchor-from-a-trickbot-infection-to-the-discovery-of-the-anchor-malware",
+            "https://www.cybereason.com/blog/research/triple-threat-emotet-deploys-trickbot-to-steal-data-spread-ryuk-ransomware#:~:text=TrickBot%20uses%20a%20hidden%20VNC,desktop%20without%20the%20victim%20noticing",
+            "https://www.cybereason.com/blog/operation-cuckoobees-deep-dive-into-stealthy-winnti-techniques",
+            "https://www.cybereason.com/blog/a-bazar-of-tricks-following-team9s-development-cycles",
+            "https://www.cybereason.com/blog/royal-ransomware-analysis",
+            "https://www.cybereason.com/blog/research/strifewater-rat-iranian-apt-moses-staff-adds-new-trojan-to-ransomware-operations"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "pwc.com": {
+        "urls": [
+            "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "objective-see.com": {
+        "urls": [
+            "https://objective-see.com/blog/blog_0x3D.html",
+            "https://objective-see.com/blog/blog_0x3B.html",
+            "https://objective-see.com/blog/blog_0x25.html",
+            "https://objective-see.com/blog/blog_0x60.html",
+            "https://objective-see.com/blog/blog_0x59.html",
+            "https://objective-see.com/blog/blog_0x4E.html",
+            "https://objective-see.com/blog/blog_0x68.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "proofpoint.com": {
+        "urls": [
+            "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight",
+            "https://www.proofpoint.com/us/threat-insight/post/APT-targets-russia-belarus-zerot-plugx",
+            "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+            "https://www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader",
+            "https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets",
+            "https://www.proofpoint.com/us/threat-insight/post/ursnif-variant-dreambot-adds-tor-functionality",
+            "https://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader",
+            "https://www.proofpoint.com/us/blog/threat-insight/good-bad-and-web-bug-ta416-increases-operational-tempo-against-european",
+            "https://www.proofpoint.com/us/blog/threat-insight/part-1-socgholish-very-real-threat-very-fake-update",
+            "https://www.proofpoint.com/us/blog/threat-insight/latrodectus-spider-bytes-ice",
+            "https://www.proofpoint.com/us/blog/threat-insight/social-engineering-dmarc-abuse-ta427s-art-information-gathering",
+            "https://www.proofpoint.com/us/blog/threat-insight/operation-spoofedscholars-conversation-ta453",
+            "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential",
+            "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming",
+            "https://www.proofpoint.com/us/threat-insight/post/new-version-azorult-stealer-improves-loading-features-spreads-alongside",
+            "https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread",
+            "https://www.proofpoint.com/us/threat-insight/post/servhelper-and-flawedgrace-new-malware-introduced-ta505",
+            "https://www.proofpoint.com/us/blog/threat-insight/geofenced-netwire-campaigns",
+            "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter",
+            "https://www.proofpoint.com/us/threat-insight/post/ta505-abusing-settingcontent-ms-within-pdf-files-distribute-flawedammyy-rat",
+            "https://www.proofpoint.com/us/threat-insight/post/ta505-shifts-times",
+            "https://www.proofpoint.com/us/threat-insight/post/leaked-ammyy-admin-source-code-turned-malware",
+            "https://www.proofpoint.com/us/blog/threat-insight/flubot-android-malware-spreading-rapidly-through-europe-may-hit-us-soon",
+            "https://www.proofpoint.com/us/threat-insight/post/microsoft-word-intruder-integrates-cve-2017-0199-utilized-cobalt-group-target",
+            "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta407-silent-librarian",
+            "https://www.proofpoint.com/us/threat-insight/post/lookback-malware-targets-united-states-utilities-sector-phishing-attacks",
+            "https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta450-uses-embedded-links-pdf-attachments-latest-campaign",
+            "https://www.proofpoint.com/us/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability",
+            "https://www.proofpoint.com/us/threat-insight/post/droidjack-uses-side-load-backdoored-pokemon-go-android-app"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "telefonicatech.com": {
+        "urls": [
+            "https://telefonicatech.com/blog/snip3-investigacion-malware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "welivesecurity.com": {
+        "urls": [
+            "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/",
+            "https://www.welivesecurity.com/2017/12/21/sednit-update-fancy-bear-spent-year/",
+            "https://www.welivesecurity.com/2019/04/30/buhtrap-backdoor-ransomware-advertising-platform/",
+            "https://www.welivesecurity.com/2013/03/19/gapz-and-redyms-droppers-based-on-power-loader-code/",
+            "https://www.welivesecurity.com/2018/12/28/analysis-latest-emotet-propagation-campaign/",
+            "https://www.welivesecurity.com/en/eset-research/moon-backdoors-lunar-landing-diplomatic-missions/",
+            "https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/",
+            "https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/",
+            "https://www.welivesecurity.com/2014/03/18/operation-windigo-the-vivisection-of-a-large-linux-server-side-credential-stealing-malware-campaign/",
+            "https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/",
+            "https://www.welivesecurity.com/2022/01/25/watering-hole-deploys-new-macos-malware-dazzlespy-asia/",
+            "https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/",
+            "https://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/",
+            "https://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/",
+            "https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/",
+            "https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine",
+            "https://www.welivesecurity.com/2018/07/09/certificates-stolen-taiwanese-tech-companies-plead-malware-campaign/",
+            "https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/",
+            "https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/",
+            "https://www.welivesecurity.com/2020/05/22/insidious-android-malware-gives-up-all-malicious-features-but-one-gain-stealth/",
+            "https://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks/",
+            "https://www.welivesecurity.com/2017/07/04/analysis-of-telebots-cunning-backdoor/",
+            "https://www.welivesecurity.com/2016/01/03/blackenergy-sshbeardoor-details-2015-attacks-ukrainian-news-media-electric-industry/",
+            "https://www.welivesecurity.com/2017/06/30/telebots-back-supply-chain-attacks-against-ukraine/",
+            "https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/",
+            "https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/",
+            "https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/",
+            "https://www.welivesecurity.com/2021/06/10/backdoordiplomacy-upgrading-quarian-turian/",
+            "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+            "https://www.welivesecurity.com/2018/03/13/oceanlotus-ships-new-backdoor/",
+            "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+            "http://www.welivesecurity.com/2016/01/03/blackenergy-sshbeardoor-details-2015-attacks-ukrainian-news-media-electric-industry/",
+            "https://www.welivesecurity.com/2019/11/19/mispadu-advertisement-discounted-unhappy-meal/",
+            "http://www.welivesecurity.com/2014/11/11/sednit-espionage-group-attacking-air-gapped-networks/",
+            "https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/",
+            "https://www.welivesecurity.com/2018/10/11/new-telebots-backdoor-linking-industroyer-notpetya/",
+            "https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/",
+            "https://www.welivesecurity.com/2020/10/12/eset-takes-part-global-operation-disrupt-trickbot/",
+            "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/",
+            "https://www.welivesecurity.com/2020/04/28/grandoreiro-how-engorged-can-exe-get/",
+            "https://www.welivesecurity.com/2019/10/03/casbaneiro-trojan-dangerous-cooking/",
+            "http://www.welivesecurity.com/2016/08/24/first-twitter-controlled-android-botnet-discovered/",
+            "https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine",
+            "https://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/",
+            "https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/",
+            "https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/",
+            "https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/",
+            "https://www.welivesecurity.com/2017/10/30/windigo-ebury-update-2/",
+            "https://www.welivesecurity.com/2019/05/22/journey-zebrocy-land/",
+            "https://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/",
+            "https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/",
+            "https://www.welivesecurity.com/2016/07/06/new-osxkeydnap-malware-hungry-credentials/",
+            "https://www.welivesecurity.com/2018/11/20/sednit-whats-going-zebrocy/",
+            "https://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/",
+            "https://www.welivesecurity.com/2019/06/20/loudminer-mining-cracked-vst-software/",
+            "https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine",
+            "http://www.welivesecurity.com/2015/07/10/sednit-apt-group-meets-hacking-team/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "crowdstrike.com": {
+        "urls": [
+            "https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/",
+            "https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/",
+            "https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/",
+            "http://www.crowdstrike.com/blog/mo-shells-mo-problems-deep-panda-web-shells/",
+            "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/",
+            "https://www.crowdstrike.com/blog/wizard-spider-adversary-update/",
+            "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/",
+            "https://www.crowdstrike.com/blog/who-is-pioneer-kitten/",
+            "https://www.crowdstrike.com/blog/big-game-hunting-the-evolution-of-indrik-spider-from-dridex-wire-fraud-to-bitpaymer-targeted-ransomware/",
+            "https://www.crowdstrike.com/blog/hidden-administrative-accounts-bloodhound-to-the-rescue/",
+            "https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/",
+            "https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/",
+            "https://www.crowdstrike.com/blog/technical-analysis-of-whispergate-malware",
+            "http://www.crowdstrike.com/blog/whois-numbered-panda/",
+            "https://www.crowdstrike.com/blog/how-crowdstrike-falcon-protects-against-wiper-malware-used-in-ukraine-attacks/",
+            "https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-of-log-4-shell-exploit-tools/",
+            "https://www.crowdstrike.com/blog/duck-hunting-with-falcon-complete-qakbot-zip-based-campaign/",
+            "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-november-helix-kitten/",
+            "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1/",
+            "https://www.crowdstrike.com/blog/timelining-grim-spiders-big-game-hunting-tactics/"
+        ],
+        "div": "cmp-text",
+        "processed": true
+    },
+    "justice.gov": {
+        "urls": [
+            "https://www.justice.gov/file/1080281/download",
+            "https://www.justice.gov/opa/press-release/file/1328521/download",
+            "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+            "https://www.justice.gov/opa/page/file/1122671/download",
+            "https://www.justice.gov/usao-sdny/press-release/file/1045781/download",
+            "https://www.justice.gov/opa/page/file/1098481/download",
+            "https://www.justice.gov/opa/press-release/file/1084361/download"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blackhillsinfosec.com": {
+        "urls": [
+            "https://www.blackhillsinfosec.com/attacking-exchange-with-mailsniper/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cloud.google.com": {
+        "urls": [
+            "https://cloud.google.com/blog/topics/threat-intelligence/likely-iranian-threat-actor-conducts-politically-motivated-disruptive-activity-against/",
+            "https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-orb-networks",
+            "https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions/",
+            "https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust",
+            "https://cloud.google.com/blog/topics/threat-intelligence/apt41-us-state-governments"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cisa.gov": {
+        "urls": [
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-198c",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-264a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-198b",
+            "https://www.cisa.gov/uscert/ncas/alerts/aa22-055a",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a",
+            "https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems",
+            "https://us-cert.cisa.gov/ncas/alerts/aa21-048a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-259a",
+            "https://www.cisa.gov/uscert/ncas/analysis-reports/AR18-352A",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-301a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-232a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa21-200a",
+            "https://www.cisa.gov/uscert/ncas/alerts/aa22-103a",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-216a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-275a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar21-027a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-239a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-133b",
+            "https://www.cisa.gov/uscert/ncas/alerts/aa20-296a#revisions",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-341a",
+            "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-303b",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-239a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-303a",
+            "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-198a",
+            "https://us-cert.cisa.gov/ncas/alerts/aa20-302a"
+        ],
+        "div": "l-page-section__content",
+        "processed": true
+    },
+    "intel471.com": {
+        "urls": [
+            "https://intel471.com/blog/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "group-ib.com": {
+        "urls": [
+            "https://www.group-ib.com/whitepapers/ransomware-uncovered.html",
+            "https://www.group-ib.com/blog/rtm",
+            "https://www.group-ib.com/blog/gustuff",
+            "https://www.group-ib.com/blog/grimagent/",
+            "https://go.group-ib.com/report-silence-en?_gl=1*d1bh3a*_ga*MTIwMzM5Mzc5MS4xNjk4OTI5NzY4*_ga_QMES53K3Y2*MTcwNDcyMjU2OS40LjEuMTcwNDcyMzU1Mi41My4wLjA.",
+            "https://www.group-ib.com/resources/research-hub/red-curl/",
+            "https://www.group-ib.com/resources/research-hub/red-curl-2/",
+            "https://www.group-ib.com/blog/cobalt",
+            "https://www.group-ib.com/blog/muddywater-infrastructure/",
+            "https://www.group-ib.com/blog/apt41-world-tour-2021/",
+            "https://www.group-ib.com/blog/colunmtk-apt41/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "picussecurity.com": {
+        "urls": [
+            "https://www.picussecurity.com/blog/a-brief-history-and-further-technical-analysis-of-sodinokibi-ransomware",
+            "https://www.picussecurity.com/resource/the-mitre-attck-t1003-os-credential-dumping-technique-and-its-adversary-use",
+            "https://www.picussecurity.com/blog/the-christmas-card-you-never-wanted-a-new-wave-of-emotet-is-back-to-wreak-havoc.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "gdatasoftware.com": {
+        "urls": [
+            "https://www.gdatasoftware.com/blog/2019/06/31724-strange-bits-sodinokibi-spam-cinarat-and-fake-g-data"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "tetradefense.com": {
+        "urls": [
+            "https://www.tetradefense.com/incident-response-services/cause-and-effect-sodinokibi-ransomware-analysis"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "f.hubspotusercontent10.net": {
+        "urls": [
+            "https://f.hubspotusercontent10.net/hubfs/5943619/Whitepaper-Downloads/Ransomware_in_ICS_Environments_Whitepaper_10_12_20.pdf?utm_referrer=https%3A%2F%2Fwww.dragos.com%2Fresource%2Fransomware-in-ics-environments%2F"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "darktrace.com": {
+        "urls": [
+            "https://www.darktrace.com/en/blog/post-mortem-of-a-targeted-sodinokibi-ransomware-attack/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "slideshare.net": {
+        "urls": [
+            "https://www.slideshare.net/slideshow/no-easy-breach-derby-con-2016/66447908"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "volexity.com": {
+        "urls": [
+            "https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/",
+            "https://www.volexity.com/blog/2016/11/09/powerduke-post-election-spear-phishing-campaigns-targeting-think-tanks-and-ngos/",
+            "https://www.volexity.com/blog/2024/01/10/active-exploitation-of-two-zero-day-vulnerabilities-in-ivanti-connect-secure-vpn/",
+            "https://www.volexity.com/blog/2018/06/07/patchwork-apt-group-targets-us-think-tanks/",
+            "https://www.volexity.com/blog/2024/01/15/ivanti-connect-secure-vpn-exploitation-goes-global/",
+            "https://www.volexity.com/blog/2021/08/24/north-korean-bluelight-special-inkysquid-deploys-rokrat/",
+            "https://www.volexity.com/blog/2020/11/06/oceanlotus-extending-cyber-espionage-operations-through-fake-websites/",
+            "https://www.volexity.com/blog/2017/11/06/oceanlotus-blossoms-mass-digital-surveillance-and-exploitation-of-asean-nations-the-media-human-rights-and-civil-society/",
+            "https://www.volexity.com/blog/2020/04/21/evil-eye-threat-actor-resurfaces-with-ios-exploit-and-updated-implant/",
+            "https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/",
+            "https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "symantec-enterprise-blogs.security.com": {
+        "urls": [
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-sunburst-sending-data",
+            "https://symantec-enterprise-blogs.security.com/threat-intelligence/daggerfly-espionage-updated-toolset",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/wastedlocker-ransomware-us",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/syssphinx-fin8-backdoor",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/palmerworm-blacktech-espionage-apt",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/shuckworm-gamaredon-espionage-ukraine",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/whitefly-espionage-singapore",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bumblebee-loader-cybercrime",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage",
+            "https://symantec-enterprise-blogs.security.com/threat-intelligence/apt-attacks-telecoms-africa-mgbot",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/inception-framework-hiding-behind-proxies",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain",
+            "https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/goldencup-new-cyber-threat-targeting-world-cup-fans",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia",
+            "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/chafer-latest-attacks-reveal-heightened-ambitions"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "pwc.co.uk": {
+        "urls": [
+            "https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html",
+            "https://www.pwc.co.uk/issues/cyber-security-services/insights/wellmess-analysis-command-control.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "orangematter.solarwinds.com": {
+        "urls": [
+            "https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "web.archive.org": {
+        "urls": [
+            "https://web.archive.org/web/20231222134431/https://cofense.com/blog/infostealer-keylogger-ransomware-one-anubis-targets-250-android-applications/",
+            "https://web.archive.org/web/20200424075623/https:/www.crowdstrike.com/blog/deep-thought-chinese-targeting-national-security-think-tanks/",
+            "https://web.archive.org/web/20200125132645/https://www.sans.org/security-resources/malwarefaq/conficker-worm",
+            "https://web.archive.org/web/20141226203328/http://www.cyberengineeringservices.com/2011/12/15/trojan-gtalk/",
+            "https://web.archive.org/web/20151226205946/https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html",
+            "https://web.archive.org/web/20180607084223/http://blog.airbuscybersecurity.com/post/2015/11/Newcomers-in-the-Derusbi-family",
+            "https://web.archive.org/web/20190930124504/https://www.symantec.com/security-center/writeup/2012-052811-0308-99",
+            "https://web.archive.org/web/20210719165945/https://www.trendmicro.com/en_us/research/15/c/ursnif-the-multifaceted-malware.html?_ga=2.165628854.808042651.1508120821-744063452.1505819992",
+            "https://web.archive.org/web/20211129064701/https://www.pwc.co.uk/issues/cyber-security-services/research/the-keyboys-are-back-in-town.html",
+            "https://web.archive.org/web/20220706125432/https://www.forcepoint.com/blog/x-labs/bitter-targeted-attack-against-pakistan",
+            "https://web.archive.org/web/20200302071436/https://cofense.com/seeing-resurgence-demonic-astaroth-wmic-trojan/",
+            "https://web.archive.org/web/20190625182633if_/https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
+            "https://web.archive.org/web/20150311013500/http://www.cyphort.com/evilbunny-malware-instrumented-lua/",
+            "https://web.archive.org/web/20150311013500/http:/www.cyphort.com/evilbunny-malware-instrumented-lua/",
+            "https://web.archive.org/web/20160503234007/https://www.isightpartners.com/2014/10/cve-2014-4114/",
+            "https://web.archive.org/web/20171222050934/http://www.finfisher.com/FinFisher/index.html",
+            "https://web.archive.org/web/20170923102302/https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
+            "https://web.archive.org/web/20181126143456/https://www.symantec.com/security-center/writeup/2014-081811-3237-99?tabid=2",
+            "https://web.archive.org/web/20201123042131/www.welivesecurity.com/2020/09/30/aptc23-group-evolves-its-android-spyware/",
+            "https://web.archive.org/web/20240226125457/https://research.checkpoint.com/2020/hamas-android-malware-on-idf-soldiers-this-is-how-it-happened/",
+            "https://web.archive.org/web/20231208015605/https://news.sophos.com/en-us/2021/11/23/android-apt-spyware-targeting-middle-east-victims-improves-its-capabilities/",
+            "https://web.archive.org/web/20240522112705/https://cofense.com/blog/nanocore-rat-resurfaced-sewers/",
+            "https://web.archive.org/web/20190508170147/https://www.riskiq.com/blog/labs/cobalt-group-spear-phishing-russian-banks/",
+            "https://web.archive.org/web/20190508170630/https://www.riskiq.com/blog/labs/cobalt-strike/",
+            "https://web.archive.org/web/20211019012628/https://www.secpod.com/blog/winexe/",
+            "https://web.archive.org/web/20230218064220/https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/",
+            "https://web.archive.org/web/20180808125108/https:/www.fireeye.com/blog/threat-research/2017/03/fin7_spear_phishing.html",
+            "https://web.archive.org/web/20220120001230/https://www.cyberviser.com/2018/05/group-linked-to-shamoon-attacks-targeting-ics-networks-in-middle-east-and-uk/",
+            "https://web.archive.org/web/20230331162455/https://www.thesafemac.com/new-signed-malware-called-janicab/",
+            "https://web.archive.org/web/20181231220607/https://riskiq.com/blog/labs/magecart-british-airways-breach/",
+            "https://web.archive.org/web/20181209083100/https://www.riskiq.com/blog/labs/magecart-newegg/",
+            "https://web.archive.org/web/20150511162820/http://windowsitpro.com/windows/netexe-reference",
+            "https://web.archive.org/web/20190111082249/https://www.symantec.com/security-center/writeup/2018-073014-2512-99?om_rssid=sr-latestthreats30days",
+            "https://web.archive.org/web/20180124082756/https://www.riskiq.com/blog/labs/spear-phishing-turkish-defense-contractors/",
+            "https://web.archive.org/web/20240904163410/https://www.ampliasecurity.com/research/wcefaq.html",
+            "https://web.archive.org/web/20220629230035/https://www.prevailion.com/darkwatchman-new-fileless-techniques/",
+            "https://web.archive.org/web/20180615122133/https://www.intezer.com/miragefox-apt15-resurfaces-with-new-tools-based-on-old-ones/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blogs.blackberry.com": {
+        "urls": [
+            "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced",
+            "https://blogs.blackberry.com/en/2022/05/black-basta-rebrand-of-conti-or-something-new",
+            "https://blogs.blackberry.com/en/2020/01/threat-spotlight-amadey-bot"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "securityweek.com": {
+        "urls": [
+            "https://www.securityweek.com/new-lazyscripter-hacking-group-targets-airlines/",
+            "https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cybersecurity.att.com": {
+        "urls": [
+            "https://cybersecurity.att.com/blogs/labs-research/the-odd-case-of-a-gh0strat-variant",
+            "https://cybersecurity.att.com/blogs/labs-research/teamtnt-with-new-campaign-aka-chimaera",
+            "https://cybersecurity.att.com/blogs/security-essentials/the-felismus-rat-powerful-threat-mysterious-purpose",
+            "https://cybersecurity.att.com/blogs/labs-research/the-rise-of-qakbot"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "arbornetworks.com": {
+        "urls": [
+            "https://www.arbornetworks.com/blog/asert/musical-chairs-playing-tetris/",
+            "https://asert.arbornetworks.com/stolen-pencil-campaign-targets-academia/",
+            "https://asert.arbornetworks.com/innaput-actors-utilize-remote-access-trojan-since-2016-presumably-targeting-victim-files/",
+            "https://www.arbornetworks.com/blog/asert/donot-team-leverages-new-modular-malware-framework-south-asia/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "dragos.com": {
+        "urls": [
+            "https://www.dragos.com/blog/industry-news/ekans-ransomware-and-ics-operations/",
+            "https://dragos.com/resource/magnallium/",
+            "https://www.dragos.com/threat/parisite/",
+            "https://dragos.com/blog/industry-news/implications-of-it-ransomware-for-ics-environments/",
+            "https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf?hsLang=en",
+            "https://hub.dragos.com/hubfs/Year-in-Review/Dragos_2020_ICS_Cybersecurity_Year_In_Review.pdf?hsCtaTracking=159c0fc3-92d8-425d-aeb8-12824f2297e8%7Cf163726d-579b-4996-9a04-44e5a124d770",
+            "https://dragos.com/resource/allanite/",
+            "https://dragos.com/resource/hexane/",
+            "https://dragos.com/resource/chrysene/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "securityintelligence.com": {
+        "urls": [
+            "https://securityintelligence.com/posts/ransomware-2020-attack-trends-new-techniques-affecting-organizations-worldwide/",
+            "https://securityintelligence.com/new-banking-trojan-icedid-discovered-by-ibm-x-force-research/",
+            "https://securityintelligence.com/posts/new-destructive-wiper-zerocleare-targets-energy-sector-in-the-middle-east/",
+            "https://securityintelligence.com/posts/new-research-exposes-iranian-threat-group-operations/",
+            "https://securityintelligence.com/posts/ta505-continues-to-infect-networks-with-sdbbot-rat/",
+            "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/",
+            "https://securityintelligence.com/posts/from-mega-to-giga-cross-version-comparison-of-top-megacortex-modifications/",
+            "https://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/",
+            "https://securityintelligence.com/tricks-of-the-trade-a-deeper-look-into-trickbots-machinations/",
+            "https://securityintelligence.com/posts/grandoreiro-malware-now-targeting-banks-in-spain/",
+            "https://securityintelligence.com/posts/observations-of-itg07-cyber-operations/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "forbes.com": {
+        "urls": [
+            "https://www.forbes.com/sites/daveywinder/2020/06/10/honda-hacked-japanese-car-giant-confirms-cyber-attack-on-global-operations-snake-ransomware/?sh=2725c35753ad",
+            "https://www.forbes.com/sites/zakdoffman/2019/08/16/dangerous-new-android-trojan-hides-from-malware-researchers-and-taunts-them-on-twitter/#1563fef26d9c"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "fortinet.com": {
+        "urls": [
+            "https://www.fortinet.com/blog/threat-research/ekans-ransomware-targeting-ot-ics-systems",
+            "https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-emotet-variant-part-1.html",
+            "https://www.fortinet.com/blog/threat-research/trickbot-s-new-reconnaissance-plugin.html",
+            "https://www.fortinet.com/blog/threat-research/in-depth-analysis-of-net-malware-javaupdtr.html",
+            "https://www.fortinet.com/blog/threat-research/analysis-of-new-agent-tesla-spyware-variant.html",
+            "https://www.fortinet.com/blog/threat-research/another-metamorfo-variant-targeting-customers-of-financial-institutions",
+            "https://www.fortinet.com/blog/threat-research/remcos-a-new-rat-in-the-wild-2.html",
+            "https://www.fortinet.com/blog/threat-research/diavol-new-ransomware-used-by-wizard-spider",
+            "https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blogs.jpcert.or.jp": {
+        "urls": [
+            "https://blogs.jpcert.or.jp/en/2019/09/tscookie-loader.html",
+            "https://blogs.jpcert.or.jp/en/2018/03/malware-tscooki-7aa0.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatfabric.com": {
+        "urls": [
+            "https://www.threatfabric.com/blogs/sova-new-trojan-with-fowl-intentions.html",
+            "https://www.threatfabric.com/blogs/exobot_android_banking_trojan_on_the_rise.html",
+            "https://www.threatfabric.com/blogs/cerberus-a-new-banking-trojan-from-the-underworld.html",
+            "https://www.threatfabric.com/blogs/ginp_a_malware_patchwork_borrowing_from_anubis.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "news.softpedia.com": {
+        "urls": [
+            "https://news.softpedia.com/news/on-chernobyl-s-30th-anniversary-malware-shuts-down-german-nuclear-power-plant-503429.shtml",
+            "https://news.softpedia.com/news/cryptocurrency-mining-malware-discovered-targeting-seagate-nas-hard-drives-508119.shtml"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "netzpolitik.org": {
+        "urls": [
+            "https://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "x.com": {
+        "urls": [
+            "https://x.com/vector_sec/status/896049052642533376",
+            "https://x.com/Evi1cg/status/935027922397573120",
+            "https://insights.infoblox.com/threat-intelligence-reports/threat-intelligence--22",
+            "https://www.joesandbox.com/analysis/318027/0/html",
+            "https://x.com/ItsReallyNick/status/945681177108762624",
+            "https://x.com/ItsReallyNick/status/944321013084573697",
+            "https://www.trellix.com/blogs/research/scattered-spider-the-modus-operandi/",
+            "https://labs.bishopfox.com/tech-blog/sliver",
+            "https://www.trellix.com/blogs/research/akira-ransomware/",
+            "https://x.com/ESETresearch/status/1458438155149922312",
+            "https://x.com/ItsReallyNick/status/1189622925286084609",
+            "https://x.com/cglyer/status/985311489782374400",
+            "https://www.trellix.com/blogs/research/the-continued-evolution-of-the-darkgate-malware-as-a-service/",
+            "https://x.com/ItsReallyNick/status/1055321868641689600"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.threatexpert.com": {
+        "urls": [
+            "http://blog.threatexpert.com/2008/11/agentbtz-threat-that-hit-pentagon.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.lumen.com": {
+        "urls": [
+            "https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/",
+            "https://blog.lumen.com/taking-the-crossroads-the-versa-director-zero-day-exploitation/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "research.checkpoint.com": {
+        "urls": [
+            "https://research.checkpoint.com/2020/warzone-behind-the-enemy-lines/",
+            "https://research.checkpoint.com/2019/ponys-cc-servers-hidden-inside-the-bitcoin-blockchain/",
+            "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/",
+            "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/",
+            "https://research.checkpoint.com/2021/stopping-serial-killer-catching-the-next-strike/",
+            "https://research.checkpoint.com/2020/new-joker-variant-hits-google-play-with-an-old-trick/",
+            "https://research.checkpoint.com/2021/the-story-of-jian/",
+            "https://research.checkpoint.com/2022/black-basta-and-the-unnoticed-delivery/",
+            "https://research.checkpoint.com/2023/agrius-deploys-moneybird-in-targeted-attacks-against-israeli-organizations/",
+            "https://research.checkpoint.com/2020/ransomware-alert-pay2key/",
+            "https://research.checkpoint.com/2021/new-wormable-android-malware-spreads-by-creating-auto-replies-to-messages-in-whatsapp/",
+            "https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/",
+            "https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/",
+            "https://research.checkpoint.com/speakup-a-new-undetected-backdoor-linux-trojan/",
+            "https://research.checkpoint.com/simbad-a-rogue-adware-campaign-on-google-play/",
+            "https://research.checkpoint.com/2020/bandook-signed-delivered/",
+            "https://research.checkpoint.com/2019/agent-smith-a-new-species-of-mobile-malware/",
+            "https://research.checkpoint.com/2020/naikon-apt-cyber-espionage-reloaded/",
+            "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
+            "https://research.checkpoint.com/2021/irans-apt34-returns-with-an-updated-arsenal/",
+            "https://research.checkpoint.com/2020/mobile-as-attack-vector-using-mdm/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "uptycs.com": {
+        "urls": [
+            "https://www.uptycs.com/blog/warzone-rat-comes-with-uac-bypass-technique",
+            "https://www.uptycs.com/blog/confucius-apt-deploys-warzone-rat",
+            "https://www.uptycs.com/blog/black-basta-ransomware-goes-cross-platform-now-targets-esxi-systems"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "malwaretech.com": {
+        "urls": [
+            "https://www.malwaretech.com/2013/08/powerloader-injection-something-truly.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "lookout.com": {
+        "urls": [
+            "https://blog.lookout.com/blog/2014/03/06/dendroid/",
+            "https://blog.lookout.com/blog/2016/05/25/spoofed-apps/",
+            "https://www.lookout.com/blog/lookout-discovers-global-rooting-malware-campaign",
+            "https://www.lookout.com/blog/lookout-discovers-novel-confucius-apt-android-spyware-linked-to-india-pakistan-conflict",
+            "https://blog.lookout.com/blog/2017/04/03/pegasus-android/",
+            "https://blog.lookout.com/viperrat-mobile-apt",
+            "https://blog.lookout.com/desert-scorpion-google-play",
+            "https://blog.lookout.com/blog/2014/11/19/notcompatible/",
+            "https://blog.lookout.com/blog/2016/01/06/brain-test-re-emerges/",
+            "https://blog.lookout.com/frozencell-mobile-threat",
+            "https://blog.lookout.com/blog/2015/11/04/trojanized-adware/",
+            "https://www.lookout.com/blog/iranian-spyware-bouldspy",
+            "https://blog.lookout.com/esurv-research"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.checkpoint.com": {
+        "urls": [
+            "http://blog.checkpoint.com/2017/01/24/charger-malware/",
+            "https://blog.checkpoint.com/2017/04/27/osx-malware-catching-wants-read-https-traffic/",
+            "http://blog.checkpoint.com/2016/11/30/1-million-google-accounts-breached-gooligan/",
+            "https://blog.checkpoint.com/2015/05/14/analysis-havij-sql-injection-tool/",
+            "https://blog.checkpoint.com/2017/05/25/judy-malware-possibly-largest-malware-campaign-found-google-play/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "fidelissecurity.com": {
+        "urls": [
+            "https://www.fidelissecurity.com/threatgeek/threat-intelligence/turbo-twist-two-64-bit-derusbi-strains-converge",
+            "https://www.fidelissecurity.com/threatgeek/archive/introducing-hi-zor-rat/",
+            "https://www.fidelissecurity.com/threatgeek/2016/10/trickbot-we-missed-you-dyre"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "eenews.net": {
+        "urls": [
+            "https://www.eenews.net/articles/the-inside-story-of-the-worlds-most-dangerous-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyberscoop.com": {
+        "urls": [
+            "https://www.cyberscoop.com/xenotime-ics-cyber-attacks-trisis-dragos/",
+            "https://www.cyberscoop.com/fin7-dde-morphisec-fileless-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cynet.com": {
+        "urls": [
+            "https://www.cynet.com/blog/cynet-detection-report-ragnar-locker-ransomware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "carbonblack.com": {
+        "urls": [
+            "https://www.carbonblack.com/2019/03/22/tau-threat-intelligence-notification-lockergoga-ransomware/",
+            "https://www.carbonblack.com/2019/04/24/cb-tau-threat-intelligence-notification-emotet-utilizing-wmi-to-launch-powershell-encoded-code/",
+            "https://www.carbonblack.com/2020/04/16/vmware-carbon-black-tau-threat-analysis-the-evolution-of-lazarus/",
+            "https://www.carbonblack.com/2019/05/17/cb-tau-threat-intelligence-notification-robbinhood-ransomware-stops-181-windows-services-before-encryption/",
+            "https://www.carbonblack.com/2019/05/14/cb-tau-threat-intelligence-notification-jcry-ransomware-pretends-to-be-adobe-flash-player-update-installer/",
+            "https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "wired.com": {
+        "urls": [
+            "https://www.wired.com/story/lockergoga-ransomware-crippling-industrial-firms/",
+            "https://www.wired.com/story/iran-hackers-us-phishing-tensions/",
+            "https://www.wired.com/story/russian-hackers-attack-ukraine/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "doublepulsar.com": {
+        "urls": [
+            "https://doublepulsar.com/how-lockergoga-took-down-hydro-ransomware-used-in-targeted-attacks-aimed-at-big-business-c666551f5880"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "hydro.com": {
+        "urls": [
+            "https://www.hydro.com/en/media/on-the-agenda/cyber-attack/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.360totalsecurity.com": {
+        "urls": [
+            "https://blog.360totalsecurity.com/en/apt-c-43-steals-venezuelan-military-secrets-to-provide-intelligence-support-for-the-reactionaries-hpreact-campaign/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "claroty.com": {
+        "urls": [
+            "https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "malwarebytes.com": {
+        "urls": [
+            "https://blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/new-targeted-attack-saudi-arabia-government/",
+            "https://www.malwarebytes.com/blog/threat-intelligence/2022/08/woody-rat-a-new-feature-rich-malware-spotted-in-the-wild",
+            "https://support.malwarebytes.com/docs/DOC-2295",
+            "https://blog.malwarebytes.com/mac/2020/07/mac-thiefquest-malware-may-not-be-ransomware-after-all/",
+            "https://blog.malwarebytes.com/threat-analysis/2018/04/new-crossrider-variant-installs-configuration-profiles-on-macs/",
+            "https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/",
+            "https://blog.malwarebytes.com/threat-analysis/2012/06/you-dirty-rat-part-1-darkcomet/",
+            "https://blog.malwarebytes.com/threat-analysis/2020/02/fraudsters-cloak-credit-card-skimmer-with-fake-content-delivery-network-ngrok-server/",
+            "https://www.malwarebytes.com/blog/news/2021/12/sidecopy-apt-connecting-lures-to-victims-payloads-to-infrastructure",
+            "https://blog.malwarebytes.com/threat-analysis/2021/06/kimsuky-apt-continues-to-target-south-korean-government-using-appleseed-backdoor/",
+            "https://www.malwarebytes.com/blog/threat-intelligence/2021/06/kimsuky-apt-continues-to-target-south-korean-government-using-appleseed-backdoor",
+            "https://www.malwarebytes.com/blog/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners",
+            "https://blog.malwarebytes.com/threat-analysis/2021/01/retrohunting-apt37-north-korean-apt-used-vba-self-decode-technique-to-inject-rokrat/",
+            "https://blog.malwarebytes.com/threat-intelligence/2021/04/a-deep-dive-into-saint-bot-downloader/",
+            "https://blog.malwarebytes.com/threat-analysis/2018/10/mac-cryptocurrency-ticker-app-installs-backdoors/",
+            "https://blog.malwarebytes.com/threat-analysis/2015/11/a-technical-look-at-dyreza/",
+            "https://blog.malwarebytes.com/threat-intelligence/2021/08/new-variant-of-konni-malware-used-in-campaign-targetting-russia/",
+            "https://blog.malwarebytes.com/threat-intelligence/2022/01/konni-evolves-into-stealthier-rat/",
+            "https://blog.malwarebytes.com/threat-analysis/2020/04/new-agenttesla-variant-steals-wifi-credentials/",
+            "https://blog.malwarebytes.com/threat-analysis/2016/08/smoke-loader-downloader-with-a-smokescreen-still-alive/",
+            "https://blog.malwarebytes.com/malwarebytes-news/2020/10/silent-librarian-apt-phishing-attack/",
+            "https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/",
+            "https://blog.malwarebytes.com/threat-intelligence/2021/04/lazarus-apt-conceals-malicious-code-within-bmp-file-to-drop-its-rat/",
+            "https://blog.malwarebytes.com/threat-analysis/2015/11/no-money-but-pony-from-a-mail-to-a-trojan-horse/",
+            "https://blog.malwarebytes.com/threat-intelligence/2022/03/double-header-isaacwiper-and-caddywiper/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "binarydefense.com": {
+        "urls": [
+            "https://www.binarydefense.com/resources/blog/emotet-evolves-with-new-wi-fi-spreader/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cisecurity.org": {
+        "urls": [
+            "https://www.cisecurity.org/white-papers/ms-isac-security-primer-emotet/",
+            "https://www.cisecurity.org/blog/emotet-changes-ttp-and-arrives-in-united-states/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "us-cert.gov": {
+        "urls": [
+            "https://www.us-cert.gov/ncas/alerts/TA18-201A",
+            "https://www.us-cert.gov/ncas/analysis-reports/ar20-045d",
+            "https://www.us-cert.gov/ics/alerts/IR-ALERT-H-16-056-01",
+            "https://www.us-cert.gov/ics/alerts/ICS-ALERT-14-281-01B",
+            "https://www.us-cert.gov/ics/advisories/ICSA-11-094-02B",
+            "https://www.us-cert.gov/ncas/alerts/TA17-318B",
+            "https://ics-cert.us-cert.gov/advisories/ICSA-18-107-02",
+            "https://www.us-cert.gov/ncas/analysis-reports/AR19-100A",
+            "https://ics-cert.us-cert.gov/advisories/ICSA-14-178-01",
+            "https://www.us-cert.gov/ncas/alerts/TA17-293A",
+            "https://www.us-cert.gov/ncas/alerts/TA17-318A",
+            "https://www.us-cert.gov/ncas/alerts/TA18-074A",
+            "https://www.us-cert.gov/ncas/alerts/TA17-181A",
+            "https://www.us-cert.gov/ncas/analysis-reports/AR18-165A",
+            "https://www.us-cert.gov/ncas/analysis-reports/AR18-221A",
+            "https://www.us-cert.gov/ncas/alerts/TA17-132A"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "redcanary.com": {
+        "urls": [
+            "https://redcanary.com/blog/stopping-emotet-before-it-moves-laterally/",
+            "https://resource.redcanary.com/rs/003-YRU-314/images/2021-Threat-Detection-Report.pdf?mkt_tok=MDAzLVlSVS0zMTQAAAF_PIlmhNTaG2McG4X_foM-cIr20UfyB12MIQ10W0HbtMRwxGOJaD0Xj6CRTNg_S-8KniRxtf9xzhz_ACvm_TpbJAIgWCV8yIsFgbhb8cuaZA",
+            "https://redcanary.com/blog/netwire-remote-access-trojan-on-linux/",
+            "https://redcanary.com/threat-detection-report/threats/dridex/",
+            "https://redcanary.com/threat-detection-report/threats/socgholish/",
+            "https://redcanary.com/blog/verclsid-exe-threat-detection/",
+            "https://redcanary.com/blog/how-one-hospital-thwarted-a-ryuk-ransomware-outbreak/",
+            "https://redcanary.com/blog/threat-intelligence/raspberry-robin/",
+            "https://redcanary.com/blog/blue-mockingbird-cryptominer/",
+            "https://redcanary.com/threat-detection-report/threats/qbot/",
+            "https://redcanary.com/blog/mac-application-bundles/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "dfironthemountain.wordpress.com": {
+        "urls": [
+            "https://dfironthemountain.wordpress.com/2018/12/06/locked-file-access-using-esentutl-exe/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "community.broadcom.com": {
+        "urls": [
+            "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=7382dce7-0260-4782-84cc-890971ed3f17&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "intezer.com": {
+        "urls": [
+            "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+            "https://www.intezer.com/blog/cloud-security/attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks/",
+            "https://www.intezer.com/blog/cloud-security/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/",
+            "http://www.intezer.com/evidence-aurora-operation-still-active-supply-chain-attack-through-ccleaner/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.bushidotoken.net": {
+        "urls": [
+            "https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "arcticwolf.com": {
+        "urls": [
+            "https://arcticwolf.com/resources/blog/conti-and-akira-chained-together/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cybercom.mil": {
+        "urls": [
+            "https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "pentestlab.blog": {
+        "urls": [
+            "https://pentestlab.blog/2017/04/19/stored-credentials/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "youtube.com": {
+        "urls": [
+            "https://www.youtube.com/watch?v=fevGZs0EQu8",
+            "https://www.youtube.com/watch?v=f09E75bWvkk&index=3&list=PL8OWO1qWXF4qYG19p7An4Vw3N2YZ86aRS&t=0s",
+            "https://www.youtube.com/watch?v=eywmb7UDODY&feature=youtu.be&t=939",
+            "https://www.youtube.com/watch?v=yuZazP22rpI",
+            "https://www.youtube.com/watch?v=xoNSbm1aX_w"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bromium.com": {
+        "urls": [
+            "https://www.bromium.com/how-ursnif-evades-detection/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyber.nj.gov": {
+        "urls": [
+            "https://www.cyber.nj.gov/threat-landscape/malware/trojans/ursnif"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "security.googleblog.com": {
+        "urls": [
+            "https://security.googleblog.com/2020/01/pha-family-highlights-bread-and-friends.html",
+            "https://security.googleblog.com/2019/06/pha-family-highlights-triada.html",
+            "https://security.googleblog.com/2019/01/pha-family-highlights-zen-and-its.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "skycure.com": {
+        "urls": [
+            "https://www.skycure.com/blog/malicious-profiles-the-sleeping-giant-of-ios-security/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "brighttalk.com": {
+        "urls": [
+            "https://www.brighttalk.com/webcast/10703/275683",
+            "https://www.brighttalk.com/webcast/10703/296317/apt34-new-targeted-attack-in-the-middle-east"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "darkreading.com": {
+        "urls": [
+            "https://www.darkreading.com/attacks-breaches/how-a-manufacturing-firm-recovered-from-a-devastating-ransomware-attack/d/d-id/1334760",
+            "https://www.darkreading.com/analytics/prolific-cybercrime-gang-favors-legit-login-credentials/d/d-id/1322645?"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.google": {
+        "urls": [
+            "https://blog.google/threat-analysis-group/how-were-tackling-evolving-online-threats/",
+            "https://blog.google/threat-analysis-group/update-threat-landscape-ukraine",
+            "https://blog.google/threat-analysis-group/countering-threats-iran/",
+            "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/",
+            "https://blog.google/threat-analysis-group/google-tag-coldriver-russian-phishing-malware/",
+            "https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/",
+            "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/",
+            "https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/"
+        ],
+        "div": "rich-text",
+        "processed": true
+    },
+    "therecord.media": {
+        "urls": [
+            "https://therecord.media/chinese-hacking-group-apt31-uses-mesh-of-home-routers-to-disguise-attacks",
+            "https://therecord.media/redcurl-hackers-russian-bank-australian-company",
+            "https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices-to-install-ransomware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bloomberg.com": {
+        "urls": [
+            "https://www.bloomberg.com/news/articles/2023-12-22/iranian-linked-hacks-expose-failure-to-safeguard-us-water-system",
+            "https://www.bloomberg.com/news/features/2019-12-03/merck-cyberattack-s-1-3-billion-question-was-it-an-act-of-war"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "apnews.com": {
+        "urls": [
+            "https://apnews.com/article/hackers-iran-israel-water-utilities-critical-infrastructure-cisa-554b2aa969c8220016ab2ef94bd7635b"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "wpxi.com": {
+        "urls": [
+            "https://www.wpxi.com/news/local/officials-investigating-cyberattack-municipal-water-authority-aliquippa/K5A3BEW35RAXJPMNHNE35RZ7WA/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "veronews.com": {
+        "urls": [
+            "https://veronews.com/2023/12/15/hackers-in-iran-attack-computer-at-vero-utilities/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "deepinstinct.com": {
+        "urls": [
+            "https://www.deepinstinct.com/blog/black-basta-ransomware-threat-emergence",
+            "https://www.deepinstinct.com/blog/bpfdoor-malware-evolves-stealthy-sniffing-backdoor-ups-its-game",
+            "https://www.deepinstinct.com/blog/new-servhelper-variant-employs-excel-4-0-macro-to-drop-signed-payload"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "minerva-labs.com": {
+        "urls": [
+            "https://minerva-labs.com/blog/new-black-basta-ransomware-hijacks-windows-fax-service/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "avertium.com": {
+        "urls": [
+            "https://www.avertium.com/resources/threat-reports/in-depth-look-at-black-basta-ransomware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "rclone.org": {
+        "urls": [
+            "https://rclone.org"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "thedfirreport.com": {
+        "urls": [
+            "https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story/",
+            "https://thedfirreport.com/2022/03/21/apt35-automates-initial-access-using-proxyshell",
+            "https://thedfirreport.com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/",
+            "https://thedfirreport.com/2020/10/08/ryuks-return/",
+            "https://thedfirreport.com/2020/11/05/ryuk-speed-run-2-hours-to-ransom/",
+            "https://thedfirreport.com/2022/04/25/quantum-ransomware/",
+            "https://thedfirreport.com/2021/03/29/sodinokibi-aka-revil-ransomware/",
+            "https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "elastic.co": {
+        "urls": [
+            "https://www.elastic.co/security-labs/pikabot-i-choose-you",
+            "https://www.elastic.co/security-labs/spring-cleaning-with-latrodectus"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "zdnet.com": {
+        "urls": [
+            "https://www.zdnet.com/article/how-hackers-attacked-ukraines-power-grid-implications-for-industrial-iot-security/",
+            "https://www.zdnet.com/article/sly-malware-author-hides-cryptomining-botnet-behind-ever-shifting-proxy-service/",
+            "https://www.zdnet.com/article/north-korea-has-tried-to-hack-11-officials-of-the-un-security-council/",
+            "https://www.zdnet.com/article/cyber-espionage-group-uses-chrome-extension-to-infect-victims/",
+            "https://www.zdnet.com/article/fbi-to-all-router-users-reboot-now-to-neuter-russias-vpnfilter-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "huntress.com": {
+        "urls": [
+            "https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity",
+            "https://www.huntress.com/blog/cleartext-shenanigans-gifting-user-passwords-to-adversaries-with-nppspy",
+            "https://www.huntress.com/blog/lolbin-to-inc-ransomware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "socradar.io": {
+        "urls": [
+            "https://socradar.io/dark-web-profile-inc-ransom/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blogs.vmware.com": {
+        "urls": [
+            "https://blogs.vmware.com/security/2020/02/vmware-carbon-black-tau-threat-analysis-shlayer-macos.html",
+            "https://blogs.vmware.com/security/2020/06/tau-threat-analysis-bundlore-macos-mm-install-macos.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "intego.com": {
+        "urls": [
+            "https://www.intego.com/mac-security-blog/new-osxshlayer-malware-variant-found-using-a-dirty-new-trick/",
+            "https://www.intego.com/mac-security-blog/osxshlayer-new-mac-malware-comes-out-of-its-shell/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "jamf.com": {
+        "urls": [
+            "https://www.jamf.com/blog/shlayer-malware-abusing-gatekeeper-bypass-on-macos/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "dirkjanm.io": {
+        "urls": [
+            "https://dirkjanm.io/introducing-roadtools-and-roadrecon-azure-ad-exploration-framework/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "objective-see.org": {
+        "urls": [
+            "https://objective-see.org/blog/blog_0x49.html",
+            "https://objective-see.org/blog/blog_0x69.html",
+            "https://objective-see.org/blog/blog_0x16.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "ptsecurity.com": {
+        "urls": [
+            "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/covid-19-and-new-year-greetings-the-higaisa-group/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "avira.com": {
+        "urls": [
+            "https://www.avira.com/en/blog/new-wave-of-plugx-targets-hong-kong"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "posts.specterops.io": {
+        "urls": [
+            "https://posts.specterops.io/a-guide-to-attacking-domain-trusts-971e52cb2944"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "forescout.com": {
+        "urls": [
+            "https://www.forescout.com/resources/industroyer2-and-incontroller-report/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "hexed.in": {
+        "urls": [
+            "http://www.hexed.in/2019/07/osxdok-analysis.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "sandflysecurity.com": {
+        "urls": [
+            "https://sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.sekoia.io": {
+        "urls": [
+            "https://blog.sekoia.io/raccoon-stealer-v2-part-2-in-depth-analysis/",
+            "https://blog.sekoia.io/raccoon-stealer-v2-part-1-the-return-of-the-dead/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "medium.com": {
+        "urls": [
+            "https://sebdraven.medium.com/babuk-is-distributed-packed-78e2f5dd2e62",
+            "https://medium.com/s2wblog/raccoon-stealer-is-back-with-a-new-version-5f436e04b20d",
+            "https://elis531989.medium.com/dancing-with-shellcodes-cracking-the-latest-version-of-guloader-75083fb15cb4",
+            "https://elis531989.medium.com/the-chronicles-of-bumblebee-the-hook-the-bee-and-the-trickbot-connection-686379311056",
+            "https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a",
+            "https://medium.com/s2wblog/analysis-of-destructive-malware-whispergate-targeting-ukraine-9d5d158f19f3",
+            "https://medium.com/d-hunter/a-look-into-konni-2019-campaign-b45a0f321e9b",
+            "https://medium.com/@chenerlich/the-avast-abuser-metamorfo-banking-malware-hides-by-abusing-avast-executable-ac9b8b392767",
+            "https://bi-zone.medium.com/from-pentest-to-apt-attack-cybercriminal-group-fin7-disguises-its-malware-as-an-ethical-hackers-c23c9a75e319",
+            "https://medium.com/@DCSO_CyTec/apt41-the-spy-who-failed-to-encrypt-me-24fc0f49cad1",
+            "https://medium.com/stage-2-security/anchor-dns-malware-family-goes-cross-platform-d807ba13ca30"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "clearskysec.com": {
+        "urls": [
+            "https://www.clearskysec.com/fox-kitten/",
+            "https://www.clearskysec.com/siamesekitten/",
+            "http://www.clearskysec.com/oilrig/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "docs.mythic-c2.net": {
+        "urls": [
+            "https://docs.mythic-c2.net/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyware.com": {
+        "urls": [
+            "https://cyware.com/news/cyber-attackers-leverage-tunneling-service-to-drop-lokibot-onto-victims-systems-6f610e44"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "recordedfuture.com": {
+        "urls": [
+            "https://www.recordedfuture.com/research/turla-apt-infrastructure",
+            "https://www.recordedfuture.com/research/whispergate-malware-corrupts-computers-ukraine"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "accenture.com": {
+        "urls": [
+            "https://www.accenture.com/us-en/blogs/cyber-defense/turla-belugasturgeon-compromises-government-entity",
+            "https://www.accenture.com/us-en/blogs/cyber-defense/iran-based-lyceum-campaigns",
+            "https://www.accenture.com/us-en/blogs/cyber-defense/mudcarps-focus-on-submarine-technologies",
+            "https://www.accenture.com/t20181129T203820Z__w__/us-en/_acnmedia/PDF-90/Accenture-snakemackerel-delivers-zekapab-malware.pdf#zoom=50"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "kandji.io": {
+        "urls": [
+            "https://www.kandji.io/blog/malware-cuckoo-infostealer-spyware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "f-secure.com": {
+        "urls": [
+            "https://www.f-secure.com/v-descs/trojan_w32_lokibot.shtml",
+            "https://www.f-secure.com/weblog/archives/00002718.html",
+            "https://www.f-secure.com/weblog/archives/00002576.html",
+            "https://www.f-secure.com/documents/996508/1030745/CozyDuke",
+            "https://labsblog.f-secure.com/2015/09/08/sofacy-recycles-carberp-and-metasploit-code/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "radware.com": {
+        "urls": [
+            "https://www.radware.com/blog/security/2018/07/micropsia-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bitsight.com": {
+        "urls": [
+            "https://www.bitsight.com/blog/latrodectus-are-you-coming-back"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatconnect.com": {
+        "urls": [
+            "https://threatconnect.com/blog/kimsuky-phishing-operations-putting-in-work/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "virusbulletin.com": {
+        "urls": [
+            "https://www.virusbulletin.com/virusbulletin/2020/03/vb2019-paper-kimsuky-group-tracking-king-spearphishing/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.alyac.co.kr": {
+        "urls": [
+            "https://blog.alyac.co.kr/2234"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyberbit.com": {
+        "urls": [
+            "https://www.cyberbit.com/blog/endpoint-security/new-early-bird-code-injection-technique-discovered/",
+            "https://www.cyberbit.com/blog/endpoint-security/dtrack-apt-malware-found-in-nuclear-power-plant/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "groupib.pathfactory.com": {
+        "urls": [
+            "https://groupib.pathfactory.com/ransomware-reports/prolock_wp"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "gosecure.net": {
+        "urls": [
+            "http://gosecure.net/2018/02/14/chaos-stolen-backdoor-rising/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.gigamon.com": {
+        "urls": [
+            "https://blog.gigamon.com/2019/07/23/abadbabe-8badf00d-discovering-badhatch-and-a-detailed-look-at-fin8s-tooling/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "linkedin.com": {
+        "urls": [
+            "https://www.linkedin.com/pulse/raas-avoslocker-incident-response-analysis-fl%C3%A1vio-costa?trk=articles_directory"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatpost.com": {
+        "urls": [
+            "https://threatpost.com/sharpshooter-complexity-scope/142359/",
+            "https://threatpost.com/spammers-revive-hancitor-downloader-campaigns/123011/",
+            "https://threatpost.com/fin7-backdoor-ethical-hacking-tool/166194/",
+            "https://threatpost.com/projectsauron-apt-on-par-with-equation-flame-duqu/119725/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "digital.nhs.uk": {
+        "urls": [
+            "https://digital.nhs.uk/cyber-alerts/2020/cc-3603",
+            "https://digital.nhs.uk/cyber-alerts/2020/cc-3681#summary"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "wandera.com": {
+        "urls": [
+            "https://www.wandera.com/reddrop-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "powersploit.readthedocs.io": {
+        "urls": [
+            "http://powersploit.readthedocs.io",
+            "https://powersploit.readthedocs.io/en/latest/Recon/Invoke-Kerberoast/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "docs.paloaltonetworks.com": {
+        "urls": [
+            "https://docs.paloaltonetworks.com/cortex/cortex-xdr/cortex-xdr-analytics-alert-reference/cortex-xdr-analytics-alert-reference/uncommon-arp-cache-listing-via-arp-exe.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.certfa.com": {
+        "urls": [
+            "https://blog.certfa.com/posts/charming-kitten-christmas-gift/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "mdsec.co.uk": {
+        "urls": [
+            "https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "rapid7.com": {
+        "urls": [
+            "https://www.rapid7.com/blog/post/2024/07/24/malware-campaign-lures-users-with-fake-w2-form/",
+            "https://www.rapid7.com/blog/post/2021/03/23/defending-against-the-zero-day-analyzing-attacker-behavior-post-exploitation-of-microsoft-exchange/",
+            "https://blog.rapid7.com/2013/06/07/keyboy-targeted-attacks-against-vietnam-and-india/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bruteratel.com": {
+        "urls": [
+            "https://bruteratel.com/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "docs.google.com": {
+        "urls": [
+            "https://docs.google.com/document/d/1e9ZTW9b71YwFWS_18ZwDAxa-cYbV8q1wUefmKZLYVsA/edit#heading=h.lmnbtht1ikzm"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "citizenlab.org": {
+        "urls": [
+            "https://citizenlab.org/2016/05/stealth-falcon/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatresearch.ext.hp.com": {
+        "urls": [
+            "https://threatresearch.ext.hp.com/svcready-a-new-loader-reveals-itself/",
+            "https://threatresearch.ext.hp.com/raspberry-robin-now-spreading-through-windows-script-files/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "ironnet.com": {
+        "urls": [
+            "https://www.ironnet.com/blog/china-cyber-attacks-the-current-threat-landscape"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "insight-jp.nttsecurity.com": {
+        "urls": [
+            "https://insight-jp.nttsecurity.com/post/102hf3q/flagpro-the-new-malware-used-by-blacktech"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "zimperium.com": {
+        "urls": [
+            "https://blog.zimperium.com/how-zimperiums-z9-detected-unknown-mobile-malware-overlooked-by-the-av-industry/",
+            "https://www.zimperium.com/blog/flytrap-android-malware-compromises-thousands-of-facebook-accounts/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "ashwinrayaprolu.wordpress.com": {
+        "urls": [
+            "https://ashwinrayaprolu.wordpress.com/2011/04/12/xcmd-an-alternative-to-psexec/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "intrinsec.com": {
+        "urls": [
+            "https://www.intrinsec.com/egregor-prolock/?cn-reloaded=1"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cybleinc.com": {
+        "urls": [
+            "https://cybleinc.com/2020/10/31/egregor-ransomware-a-deep-dive-into-its-activities-and-techniques/",
+            "https://cybleinc.com/2020/09/26/sidewinder-apt-targets-with-futuristic-tactics-and-techniques/",
+            "https://cybleinc.com/2021/01/21/conti-ransomware-resurfaces-targeting-government-large-organizations/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "secureauth.com": {
+        "urls": [
+            "https://www.secureauth.com/labs/open-source-tools/impacket"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "adepts.of0x.cc": {
+        "urls": [
+            "https://adepts.of0x.cc/kerberos-thievery-linux/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "onsecurity.io": {
+        "urls": [
+            "https://www.onsecurity.io/blog/abusing-kerberos-from-linux/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "rewterz.com": {
+        "urls": [
+            "https://www.rewterz.com/threats/sidewinder-apt-group-campaign-analysis",
+            "https://www.rewterz.com/articles/analysis-on-sidewinder-apt-group-covid-19"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyberforensicator.com": {
+        "urls": [
+            "https://cyberforensicator.com/2019/01/20/silence-dissecting-malicious-chm-files-and-performing-forensic-analysis/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "nytimes.com": {
+        "urls": [
+            "https://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bankinfosecurity.com": {
+        "urls": [
+            "http://www.bankinfosecurity.com/did-chinese-spyware-linger-in-us-phones-a-9534"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatstream.com": {
+        "urls": [
+            "https://www.threatstream.com/blog/evasive-maneuvers-the-wekby-group-attempts-to-evade-analysis-via-custom-rop"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "kaspersky.com": {
+        "urls": [
+            "https://www.kaspersky.com/blog/triada-trojan/11481/",
+            "https://www.kaspersky.com/blog/fakecalls-banking-trojan/44072/",
+            "https://usa.kaspersky.com/about/press-releases/2018_synack-doppelganging"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "krebsonsecurity.com": {
+        "urls": [
+            "https://krebsonsecurity.com/2019/06/tracing-the-supply-chain-attack-on-android-2/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "domaintools.com": {
+        "urls": [
+            "https://www.domaintools.com/resources/blog/centreon-to-exim-and-back-on-the-trail-of-sandworm/",
+            "https://www.domaintools.com/resources/blog/winter-vivern-a-look-at-re-crafted-government-maldocs/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "gov.uk": {
+        "urls": [
+            "https://www.ncsc.gov.uk/report/joint-report-on-publicly-available-hacking-tools",
+            "https://www.ncsc.gov.uk/news/joint-advisory-shows-new-sandworm-malware-cyclops-blink-replaces-vpnfilter",
+            "https://www.gov.uk/government/news/uk-exposes-series-of-russian-cyber-attacks-against-olympic-and-paralympic-games"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "paloaltonetworks.com": {
+        "urls": [
+            "https://researchcenter.paloaltonetworks.com/2017/11/unit42-new-malware-with-ties-to-sunorcal-discovered/",
+            "https://researchcenter.paloaltonetworks.com/2015/08/retefe-banking-trojan-targets-sweden-switzerland-and-japan/",
+            "https://researchcenter.paloaltonetworks.com/2018/10/unit42-nokki-almost-ties-the-knot-with-dogcall-reaper-group-uses-new-malware-to-deploy-rat/",
+            "http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/",
+            "https://researchcenter.paloaltonetworks.com/2018/07/unit42-oilrig-targets-technology-service-provider-government-agency-quadagent/",
+            "https://researchcenter.paloaltonetworks.com/2016/01/new-attacks-linked-to-c0d0s0-group/",
+            "https://researchcenter.paloaltonetworks.com/2017/11/unit42-uboatrat-navigates-east-asia/",
+            "https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
+            "https://researchcenter.paloaltonetworks.com/2017/11/unit42-muddying-the-water-targeted-attacks-in-the-middle-east/",
+            "http://researchcenter.paloaltonetworks.com/2015/08/keyraider-ios-malware-steals-over-225000-apple-accounts-to-create-free-app-utopia/",
+            "https://researchcenter.paloaltonetworks.com/2016/11/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/",
+            "http://researchcenter.paloaltonetworks.com/2015/07/unit-42-technical-analysis-seaduke/",
+            "https://researchcenter.paloaltonetworks.com/2016/09/dualtoy-new-windows-trojan-sideloads-risky-apps-to-android-and-ios-devices/",
+            "https://researchcenter.paloaltonetworks.com/2018/09/unit42-new-konni-malware-attacking-eurasia-southeast-asia/",
+            "http://researchcenter.paloaltonetworks.com/2016/02/t9000-advanced-modular-backdoor-uses-complex-anti-analysis-techniques/",
+            "http://researchcenter.paloaltonetworks.com/2016/05/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/",
+            "https://researchcenter.paloaltonetworks.com/2017/10/unit42-badpatch/",
+            "https://researchcenter.paloaltonetworks.com/2018/11/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/",
+            "https://researchcenter.paloaltonetworks.com/2017/06/unit42-paranoid-plugx/",
+            "https://researchcenter.paloaltonetworks.com/2018/03/unit42-sofacy-uses-dealerschoice-target-european-government-agency/",
+            "https://researchcenter.paloaltonetworks.com/2018/07/unit42-bisonal-malware-used-attacks-russia-south-korea/",
+            "https://researchcenter.paloaltonetworks.com/2017/02/unit42-magic-hound-campaign-attacks-saudi-targets/",
+            "https://researchcenter.paloaltonetworks.com/2018/11/unit42-new-wine-old-bottle-new-azorult-variant-found-findmyname-campaign-using-fallout-exploit-kit/",
+            "http://researchcenter.paloaltonetworks.com/2016/11/unit42-shamoon-2-return-disttrack-wiper/",
+            "https://researchcenter.paloaltonetworks.com/2017/02/unit-42-title-gamaredon-group-toolset-evolution/",
+            "https://researchcenter.paloaltonetworks.com/2016/05/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/",
+            "http://researchcenter.paloaltonetworks.com/2017/03/unit42-trochilus-rat-new-moonwind-rat-used-attack-thai-utility-organizations/",
+            "http://researchcenter.paloaltonetworks.com/2015/12/attack-on-french-diplomat-linked-to-operation-lotus-blossom/",
+            "http://researchcenter.paloaltonetworks.com/2016/02/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/",
+            "http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+            "http://researchcenter.paloaltonetworks.com/2016/02/new-android-trojan-xbot-phishes-credit-cards-and-bank-accounts-encrypts-devices-for-ransom/",
+            "https://researchcenter.paloaltonetworks.com/2017/02/unit42-xagentosx-sofacys-xagent-macos-tool/",
+            "https://researchcenter.paloaltonetworks.com/2018/03/unit42-patchwork-continues-deliver-badnews-indian-subcontinent/",
+            "https://researchcenter.paloaltonetworks.com/2017/04/unit42-cardinal-rat-active-two-years/",
+            "http://researchcenter.paloaltonetworks.com/2015/12/bbsrat-attacks-targeting-russian-organizations-linked-to-roaming-tiger/",
+            "https://researchcenter.paloaltonetworks.com/2018/07/unit42-new-threat-actor-group-darkhydrus-targets-middle-east-government/",
+            "http://researchcenter.paloaltonetworks.com/2016/02/new-malware-rover-targets-indian-ambassador-to-afghanistan/",
+            "https://researchcenter.paloaltonetworks.com/2016/02/nanocorerat-behind-an-increase-in-tax-themed-phishing-e-mails/",
+            "https://researchcenter.paloaltonetworks.com/2018/10/unit42-new-techniques-uncover-attribute-cobalt-gang-commodity-builders-infrastructure-revealed/",
+            "https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html",
+            "https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/",
+            "https://unit42.paloaltonetworks.com/babyshark-malware-part-two-attacks-continue-using-kimjongrat-and-pcrat/",
+            "https://unit42.paloaltonetworks.com/pingpull-gallium/",
+            "https://unit42.paloaltonetworks.com/ukraine-cyber-conflict-cve-2021-32648-whispergate/#whispergate-malware-family",
+            "https://unit42.paloaltonetworks.com/unit42-inception-attackers-target-europe-year-old-office-vulnerability/",
+            "https://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/",
+            "https://unit42.paloaltonetworks.com/solarstorm-supernova/",
+            "https://researchcenter.paloaltonetworks.com/2018/08/unit42-darkhydrus-uses-phishery-harvest-credentials-middle-east/",
+            "https://unit42.paloaltonetworks.com/imminent-monitor-a-rat-down-under/",
+            "https://researchcenter.paloaltonetworks.com/2016/09/unit42-sofacys-komplex-os-x-trojan/",
+            "http://researchcenter.paloaltonetworks.com/2015/07/ups-observations-on-cve-2015-3113-prior-zero-days-and-the-pirpi-payload/",
+            "https://unit42.paloaltonetworks.com/yispecter-first-ios-malware-attacks-non-jailbroken-ios-devices-by-abusing-private-apis/",
+            "https://unit42.paloaltonetworks.com/bendybear-shellcode-blacktech/",
+            "https://unit42.paloaltonetworks.com/unit42-projectm-link-found-between-pakistani-actor-and-operation-transparent-tribe/",
+            "https://researchcenter.paloaltonetworks.com/2017/05/unit42-kazuar-multiplatform-espionage-backdoor-api-access/",
+            "https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/",
+            "https://researchcenter.paloaltonetworks.com/2018/06/unit42-sofacy-groups-parallel-attacks/",
+            "https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/",
+            "https://researchcenter.paloaltonetworks.com/2016/07/unit42-technical-walkthrough-office-test-persistence-method-used-in-recent-sofacy-attacks/",
+            "http://researchcenter.paloaltonetworks.com/2017/02/unit42-menupass-returns-new-malware-new-attacks-japanese-academics-organizations/",
+            "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+            "https://unit42.paloaltonetworks.com/unit42-henbox-chickens-come-home-roost/",
+            "https://researchcenter.paloaltonetworks.com/2018/01/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east/",
+            "https://unit42.paloaltonetworks.com/unit42-new-improved-macos-backdoor-oceanlotus/",
+            "https://researchcenter.paloaltonetworks.com/2018/01/unit42-vermin-quasar-rat-custom-malware-used-ukraine/",
+            "https://researchcenter.paloaltonetworks.com/2017/07/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+            "https://researchcenter.paloaltonetworks.com/2018/02/unit42-oopsie-oilrig-uses-threedollars-deliver-new-trojan/",
+            "https://unit42.paloaltonetworks.com/unit42-analyzing-oilrigs-ops-tempo-testing-weaponization-delivery/",
+            "https://researchcenter.paloaltonetworks.com/2017/10/unit42-oilrig-group-steps-attacks-new-delivery-documents-new-injector-trojan/",
+            "http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/",
+            "http://researchcenter.paloaltonetworks.com/2017/04/unit42-oilrig-actors-provide-glimpse-development-testing-efforts/",
+            "https://unit42.paloaltonetworks.com/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/",
+            "https://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/",
+            "https://researchcenter.paloaltonetworks.com/2017/07/unit42-spydealer-android-trojan-spying-40-apps/",
+            "https://researchcenter.paloaltonetworks.com/2016/02/a-look-into-fysbis-sofacys-linux-backdoor/",
+            "https://researchcenter.paloaltonetworks.com/2018/08/unit42-gorgon-group-slithering-nation-state-cybercrime/",
+            "http://researchcenter.paloaltonetworks.com/2015/09/update-xcodeghost-attacker-can-phish-passwords-and-open-urls-though-infected-apps/",
+            "http://researchcenter.paloaltonetworks.com/2015/09/novel-malware-xcodeghost-modifies-xcode-infects-apple-ios-apps-and-hits-app-store/",
+            "https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/",
+            "http://researchcenter.paloaltonetworks.com/2016/02/pirated-ios-app-stores-client-successfully-evaded-apple-ios-code-review/",
+            "https://researchcenter.paloaltonetworks.com/2018/01/unit42-comnie-continues-target-organizations-east-asia/",
+            "https://researchcenter.paloaltonetworks.com/2018/09/unit42-oilrig-targets-middle-eastern-government-adds-evasion-techniques-oopsie/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "pan-unit42.github.io": {
+        "urls": [
+            "https://pan-unit42.github.io/playbook_viewer/",
+            "https://pan-unit42.github.io/playbook_viewer/?pb=evasive-serpens"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.scilabs.mx": {
+        "urls": [
+            "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
+            "https://blog.scilabs.mx/en/ursa-mispadu-overlap-analysis-with-other-threats/",
+            "https://blog.scilabs.mx/en/evolution-of-banking-trojan-ursa-mispadu/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "lab52.io": {
+        "urls": [
+            "https://lab52.io/blog/wirte-group-attacking-the-middle-east/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "fsec.or.kr": {
+        "urls": [
+            "https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1382.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory="
+        ],
+        "div": "",
+        "processed": false
+    },
+    "threatminer.org": {
+        "urls": [
+            "https://www.threatminer.org/report.php?q=waterbug-attack-group.pdf&y=2015#gsc.tab=0&gsc.q=waterbug-attack-group.pdf&gsc.page=1"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "endgame.com": {
+        "urls": [
+            "https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "adsecurity.org": {
+        "urls": [
+            "https://adsecurity.org/?page_id=1821",
+            "https://adsecurity.org/?p=1640",
+            "http://adsecurity.org/?p=1275"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "dsinternals.com": {
+        "urls": [
+            "https://www.dsinternals.com/en/retrieving-dpapi-backup-keys-from-active-directory/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "harmj0y.net": {
+        "urls": [
+            "https://blog.harmj0y.net/powershell/kerberoasting-without-mimikatz/",
+            "http://www.harmj0y.net/blog/redteaming/mimikatz-and-dcsync-and-extrasids-oh-my/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "bitdefender.com": {
+        "urls": [
+            "https://labs.bitdefender.com/2018/08/triout-spyware-framework-for-android-with-extensive-surveillance-capabilities/",
+            "https://www.bitdefender.com/blog/labs/new-flubot-campaign-sweeps-through-europe-targeting-android-and-ios-users-alike/",
+            "https://businessinsights.bitdefender.com/deep-dive-into-a-fin8-attack-a-forensic-investigation",
+            "https://www.bitdefender.com/blog/labs/trickbot-is-dead-long-live-trickbot/",
+            "https://labs.bitdefender.com/2020/04/oil-gas-spearphishing-campaigns-drop-agent-tesla-spyware-in-advance-of-historic-opec-deal/",
+            "https://www.bitdefender.com/blog/labs/luminousmoth-plugx-file-exfiltration-and-persistence-revisited",
+            "https://www.bitdefender.com/blog/labs/iranian-chafer-apt-targeted-air-transportation-and-government-in-kuwait-and-saudi-arabia/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "whiteops.com": {
+        "urls": [
+            "https://www.whiteops.com/blog/terracotta-android-malware-a-technical-study"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "hornetsecurity.com": {
+        "urls": [
+            "https://www.hornetsecurity.com/en/security-information/avaddon-from-seeking-affiliates-to-in-the-wild-in-2-days/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "awakesecurity.com": {
+        "urls": [
+            "https://awakesecurity.com/blog/threat-hunting-for-avaddon-ransomware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.aquasec.com": {
+        "urls": [
+            "https://blog.aquasec.com/container-security-tnt-container-attack",
+            "https://blog.aquasec.com/threat-alert-kinsing-malware-container-vulnerability"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cadosecurity.com": {
+        "urls": [
+            "https://www.cadosecurity.com/team-tnt-the-first-crypto-mining-worm-to-steal-aws-credentials/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "lacework.com": {
+        "urls": [
+            "https://www.lacework.com/blog/taking-teamtnt-docker-images-offline"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "securitywithoutborders.org": {
+        "urls": [
+            "https://securitywithoutborders.org/blog/2019/03/29/exodus.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "truesec.se": {
+        "urls": [
+            "https://www.truesec.se/sakerhet/verktyg/saakerhet/gsecdump_v2.0b5"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "forcepoint.com": {
+        "urls": [
+            "https://blogs.forcepoint.com/security-labs/carbanak-group-uses-google-malware-command-and-control",
+            "https://www.forcepoint.com/blog/x-labs/bitter-targeted-attack-against-pakistan",
+            "https://blogs.forcepoint.com/security-labs/playing-cat-mouse-introducing-felismus-malware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "ti.dbappsecurity.com.cn": {
+        "urls": [
+            "https://ti.dbappsecurity.com.cn/blog/articles/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "talent-jump.com": {
+        "urls": [
+            "https://www.talent-jump.com/article/2020/02/17/CLAMBLING-A-New-Backdoor-Base-On-Dropbox-en/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyfirma.com": {
+        "urls": [
+            "https://www.cyfirma.com/outofband/apt-bahamut-attacks-indian-intelligence-operative-using-android-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "midnightbluelabs.com": {
+        "urls": [
+            "https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "kroll.com": {
+        "urls": [
+            "https://www.kroll.com/en/insights/publications/malware-analysis-report-rawpos-malware",
+            "https://www.kroll.com/en/insights/publications/cyber/royal-ransomware-deep-dive",
+            "https://www.kroll.com/en/insights/publications/cyber/qakbot-malware-exfiltrating-emails-thread-hijacking-attacks"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "tripwire.com": {
+        "urls": [
+            "https://www.tripwire.com/state-of-security/security-data-protection/android-malware-sms/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "metabaseq.com": {
+        "urls": [
+            "https://www.metabaseq.com/mispadu-banking-trojan/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "seguranca-informatica.pt": {
+        "urls": [
+            "https://seguranca-informatica.pt/threat-analysis-the-emergent-ursa-trojan-impacts-many-countries-using-a-sophisticated-loader/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "htmlpreview.github.io": {
+        "urls": [
+            "https://htmlpreview.github.io/?https://github.com/MatthewDemaske/blogbackup/blob/master/netshell.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "digitrustgroup.com": {
+        "urls": [
+            "https://www.digitrustgroup.com/nanocore-not-your-average-rat/",
+            "https://www.digitrustgroup.com/agent-tesla-keylogger/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "docs.broadcom.com": {
+        "urls": [
+            "https://docs.broadcom.com/doc/w32-duqu-11-en",
+            "https://docs.broadcom.com/doc/dragonfly_threat_against_western_energy_suppliers",
+            "https://docs.broadcom.com/doc/dragonfly_threat_against_western_energy_suppliers#:~:text=The%20attackers%2C%20known%20to%20Symantec,supply%20in%20the%20affected%20countries."
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.morphisec.com": {
+        "urls": [
+            "https://blog.morphisec.com/cobalt-gang-2.0",
+            "https://blog.morphisec.com/revealing-the-snip3-crypter-a-highly-evasive-rat-loader",
+            "http://blog.morphisec.com/security-alert-fin8-is-back",
+            "http://blog.morphisec.com/fin7-attacks-restaurant-industry"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "crowdstrike.lookbookhq.com": {
+        "urls": [
+            "https://crowdstrike.lookbookhq.com/global-threat-report-2018-web/cs-2018-global-threat-report"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "trustwave.com": {
+        "urls": [
+            "https://www.trustwave.com/Resources/SpiderLabs-Blog/Shining-the-Spotlight-on-Cherry-Picker-PoS-Malware/",
+            "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/pillowmint-fin7s-monkey-thief/",
+            "https://www.trustwave.com/en-us/resources/library/documents/the-golden-tax-department-and-the-emergence-of-goldenspy-malware/",
+            "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/goldenspy-chapter-two-the-uninstaller/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "csmonitor.com": {
+        "urls": [
+            "https://www.csmonitor.com/USA/2012/0914/Stealing-US-business-secrets-Experts-ID-two-huge-cyber-gangs-in-China"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "manpages.debian.org": {
+        "urls": [
+            "https://manpages.debian.org/testing/nbtscan/nbtscan.1.en.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "sectools.org": {
+        "urls": [
+            "https://sectools.org/tool/nbtscan/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "googleprojectzero.blogspot.com": {
+        "urls": [
+            "https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "ss64.com": {
+        "urls": [
+            "https://ss64.com/nt/nltest.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cybermerchantsofdeath.com": {
+        "urls": [
+            "http://www.cybermerchantsofdeath.com/blog/2017/04/22/FlexiSpy.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "flexispy.com": {
+        "urls": [
+            "https://www.flexispy.com/en/features-overview.htm"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "invincea.com": {
+        "urls": [
+            "https://www.invincea.com/2016/07/tunnel-of-gov-dnc-hack-and-the-russian-xtunnel/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "techtarget.com": {
+        "urls": [
+            "https://www.techtarget.com/searchsecurity/feature/Targeted-Cyber-Attacks"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.netlab.360.com": {
+        "urls": [
+            "https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/",
+            "https://blog.netlab.360.com/rotajakiro_linux_version_of_oceanlotus/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "prevailion.com": {
+        "urls": [
+            "https://www.prevailion.com/phantom-in-the-command-shell-2/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "guidepointsecurity.com": {
+        "urls": [
+            "https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "kb.cert.org": {
+        "urls": [
+            "https://www.kb.cert.org/vuls/id/843464"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "splunk.com": {
+        "urls": [
+            "https://www.splunk.com/en_us/blog/security/detecting-supernova-malware-solarwinds-continued.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "alienvault.com": {
+        "urls": [
+            "https://www.alienvault.com/open-threat-exchange/blog/another-sykipot-sample-likely-targeting-us-federal-agencies",
+            "http://www.alienvault.com/open-threat-exchange/blog/new-sykipot-developments",
+            "https://www.alienvault.com/open-threat-exchange/blog/sykipot-variant-hijacks-dod-and-windows-smart-cards",
+            "https://www.alienvault.com/blogs/labs-research/macspy-os-x-rat-as-a-service"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "windowsitpro.com": {
+        "urls": [
+            "http://windowsitpro.com/systems-management/psexec"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "joesecurity.org": {
+        "urls": [
+            "https://www.joesecurity.org/blog/498839998833561473"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cofense.com": {
+        "urls": [
+            "https://cofense.com/blog/the-rise-of-agent-tesla-understanding-the-notorious-keylogger/",
+            "https://cofense.com/upgrades-delivery-support-infrastructure-revenge-rat-malware-bigger-threat/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "lastline.com": {
+        "urls": [
+            "http://labs.lastline.com/an-analysis-of-plugx",
+            "https://www.lastline.com/labsblog/defeating-darkhotel-just-in-time-decryption/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "sysdig.com": {
+        "urls": [
+            "https://sysdig.com/blog/zoom-into-kinsing-kdevtmpfsi/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "sqlmap.org": {
+        "urls": [
+            "http://sqlmap.org/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cylance.com": {
+        "urls": [
+            "https://threatvector.cylance.com/en_us/home/threat-spotlight-sodinokibi-ransomware.html",
+            "https://threatvector.cylance.com/en_us/home/el-machete-malware-attacks-cut-through-latam.html",
+            "https://www.cylance.com/content/dam/cylance-web/en-us/resources/knowledge-center/resource-library/reports/WhiteCompanyOperationShaheenReport.pdf?_ga=2.161661948.1943296560.1555683782-1066572390.1555511517",
+            "https://www.cylance.com/shell-crew-variants-continue-to-fly-under-big-avs-radar"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "man7.org": {
+        "urls": [
+            "https://man7.org/linux/man-pages/man1/at.1p.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "info.phishlabs.com": {
+        "urls": [
+            "https://info.phishlabs.com/blog/silent-librarian-more-to-the-story-of-the-iranian-mabna-institute-indictment"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "eisac.com": {
+        "urls": [
+            "https://www.eisac.com/public-news-detail?id=115909"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.qualys.com": {
+        "urls": [
+            "https://blog.qualys.com/vulnerabilities-threat-research/2022/03/01/ukrainian-targets-hit-by-hermeticwiper-new-datawiper-malware",
+            "https://blog.qualys.com/vulnerabilities-threat-research/2022/02/08/lolzarus-lazarus-group-incorporating-lolbins-into-campaigns"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "reaqta.com": {
+        "urls": [
+            "https://reaqta.com/2017/11/muddywater-apt-targeting-middle-east/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "airbus-cyber-security.com": {
+        "urls": [
+            "https://airbus-cyber-security.com/the-eye-of-the-tiger/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cobaltstrike.com": {
+        "urls": [
+            "https://blog.cobaltstrike.com/2017/05/23/cobalt-strike-3-8-whos-your-daddy/",
+            "https://www.cobaltstrike.com/help-scripted-web-delivery",
+            "https://blog.cobaltstrike.com/2017/01/24/scripting-matt-nelsons-mmc20-application-lateral-movement-technique/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "f.hubspotusercontent30.net": {
+        "urls": [
+            "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf?__hstc=147695848.3e8f1a482c8f8d4531507747318e660b.1680005306711.1680005306711.1680005306711.1&__hssc=147695848.1.1680005306711&__hsfp=3000179024&hsCtaTracking=189ec409-ae2d-4909-8bf1-62dcdd694372%7Cca91d317-8f10-4a38-9f80-367f551ad64d"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "tools.kali.org": {
+        "urls": [
+            "https://tools.kali.org/password-attacks/hydra"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "coresecurity.com": {
+        "urls": [
+            "https://www.coresecurity.com/core-labs/open-source-tools/impacket"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cloudmark.com": {
+        "urls": [
+            "https://www.cloudmark.com/en/blog/malware/tanglebot-new-advanced-sms-malware-targets-mobile-users-across-us-and-canada-covid-19"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "en.wikipedia.org": {
+        "urls": [
+            "https://en.wikipedia.org/wiki/Pwdump"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.jpcert.or.jp": {
+        "urls": [
+            "http://blog.jpcert.or.jp/2017/02/chches-malware--93d6.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cert.gov.ua": {
+        "urls": [
+            "https://cert.gov.ua/article/3761104"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "programmersought.com": {
+        "urls": [
+            "https://www.programmersought.com/article/62493896999/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "fsiceat.tistory.com": {
+        "urls": [
+            "https://fsiceat.tistory.com/2"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "issuemakerslab.com": {
+        "urls": [
+            "http://www.issuemakerslab.com/research3/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.cyberint.com": {
+        "urls": [
+            "https://blog.cyberint.com/qakbot-banking-trojan"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "mackeeper.com": {
+        "urls": [
+            "https://mackeeper.com/blog/post/610-macos-bundlore-adware-analysis/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "esentire.com": {
+        "urls": [
+            "https://www.esentire.com/security-advisories/notorious-cybercrime-gang-fin7-lands-malware-in-law-firm-using-fake-legal-complaint-against-jack-daniels-owner-brown-forman-inc"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "flashpoint-intel.com": {
+        "urls": [
+            "https://www.flashpoint-intel.com/blog/fin7-revisited-inside-astra-panel-and-sqlrat-malware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "carnal0wnage.attackresearch.com": {
+        "urls": [
+            "http://carnal0wnage.attackresearch.com/2012/09/more-on-aptsim.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "glitch-cat.com": {
+        "urls": [
+            "https://www.glitch-cat.com/blog/green-lambert-and-attack"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "vms.drweb.com": {
+        "urls": [
+            "https://vms.drweb.com/virus/?i=4276269"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "computerweekly.com": {
+        "urls": [
+            "https://www.computerweekly.com/news/450302128/Strider-cyber-attack-group-deploying-malware-for-espionage"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "docplayer.net": {
+        "urls": [
+            "https://docplayer.net/101655589-Tools-used-by-the-uroburos-actors.html"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blogs.juniper.net": {
+        "urls": [
+            "https://blogs.juniper.net/en-us/threat-research/covid-19-and-fmla-campaigns-used-to-install-new-icedid-banking-malware"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "blog.avast.com": {
+        "urls": [
+            "https://blog.avast.com/new-investigations-in-ccleaner-incident-point-to-a-possible-third-stage-that-had-keylogger-capacities"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "cyble.com": {
+        "urls": [
+            "https://blog.cyble.com/2022/05/06/black-basta-ransomware/",
+            "https://blog.cyble.com/2022/10/27/drinik-malware-returns-with-advanced-capabilities-targeting-indian-taxpayers/",
+            "https://cyble.com/blog/chameleon-a-new-android-malware-spotted-in-the-wild/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "logrhythm.com": {
+        "urls": [
+            "https://logrhythm.com/blog/a-technical-analysis-of-wannacry-ransomware/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "o365blog.com": {
+        "urls": [
+            "https://o365blog.com/aadinternals",
+            "https://o365blog.com/aadinternals/",
+            "https://o365blog.com/post/federation-vulnerability/",
+            "https://o365blog.com/post/just-looking",
+            "https://o365blog.com/post/on-prem_admin/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "aadinternals.com": {
+        "urls": [
+            "https://aadinternals.com/post/azurevms/"
+        ],
+        "div": "",
+        "processed": false
+    },
+    "linux.die.net": {
+        "urls": [
+            "https://linux.die.net/man/1/ftp"
+        ],
+        "div": "",
+        "processed": false
+    }
+}
