@@ -57,7 +57,7 @@ div_dict = {}
 with open('domains.json', 'r', encoding='utf-8') as file:
     domain_urls = json.load(file)
     for domain in domain_urls.keys():
-        if domain_urls[domain]["div"] != "" and domain_urls[domain]["processed"] == False:
+        if domain_urls[domain]["div"] != [] and domain_urls[domain]["processed"] == False:
             div_dict[domain] = domain_urls[domain]["div"]
 
 print(f"本次提取的域名数量：{len(div_dict)}")
@@ -96,7 +96,7 @@ for web_dn in div_dict.keys():
             if url in wrong_urls:
                 continue
             filename = ref_dict[url]["name"] + ".txt"
-
+            filename = sanitize_filename(filename, filename_log, web_dn)
 
             # 如果已提取好，则跳过，注意需要关注现有文件内容是否正确！
             if os.path.exists(f"./documents/{web_dn}/{filename}"):
@@ -173,7 +173,15 @@ for web_dn in div_dict.keys():
 
             # 解析页面内容
             soup = BeautifulSoup(response.text, 'html.parser')
-            rich_text_divs = soup.find_all('div', class_=div_dict[web_dn])
+            div_list = div_dict[web_dn]
+            # 处理多个div的情况
+            if len(div_list) == 1:
+                rich_text_divs = soup.find_all('div', class_=div_list[0])
+            else:
+                for div in div_list:
+                    rich_text_divs = soup.find_all('div', class_=div)
+                    if rich_text_divs:
+                        break
             if rich_text_divs:
                 for index, rich_text_div in enumerate(rich_text_divs):
                     # 使用stripped_strings提取所有去掉多余空白的文本
@@ -190,7 +198,7 @@ for web_dn in div_dict.keys():
 
             # 成功提取
             counts["success"] += 1
-            filename = sanitize_filename(filename, filename_log, web_dn)
+
 
             with open(f"{success_dir}/{filename}", "w", encoding="utf-8") as file:
                 file.write(text_content_all)
